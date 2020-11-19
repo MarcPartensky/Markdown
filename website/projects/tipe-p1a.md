@@ -1,0 +1,4 @@
+# My TIPE in P1A at ISEP
+When I was a student at ISEP in p1a, we had to make somekind of project for the year that was called TIPE (Travail Personnel Encadré). We had a choice between different subjects such as Physics, Science of the Engineer, Math and Programming, so my 2 good friends Alexandre and Valentin and I chose to make a Programming project in Python (because it was the language that we were studying in our classes). Since I already made few games in Python like the Connect4, Tic-tac-toe and so on, I knew exactly how to proceed and went to do the game in one night on my own. After this night Alexandre and I corrected the code and discussed my programming choices. We finally agreed that Alexandre would be responsible for making an AI that was supposed to be entirely rule based because cleverer AIs were out of the question and I quote "The AI has to be more human, it has to think like you do somehow."
+
+
