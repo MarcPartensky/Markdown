@@ -7,9 +7,10 @@ import json
 
 BASE_URL = os.environ['WEBSITE_URL']
 
-file = sys.argv[1].replace('./', '')
+path = sys.argv[1].replace('./', '')
+file = path.split('/')[-1]
 
-with open(file, 'r') as f:
+with open(path, 'r') as f:
     content = f.readlines()
 
 content = '\n'.join(content[1:]).strip()
