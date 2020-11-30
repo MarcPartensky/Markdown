@@ -3,39 +3,44 @@
 # Todolist
 
 ## Obligatoire
-- [x] rédaction mail type wordpress (JE)
 - [ ] prêt d'honneur
 - [ ] chercher des offres sur monster
 - [ ] appeller la bpi
 - [ ] carte de visite [affinity designer](/Volumes/$/Application/Affinity\ Designer.app) + [affinity photo](/Volumes/$/Application/Affinity\ Photo.app)
 
-## Argent
-- [ ] orasa
-- [ ] appeller la bnp
-
-## Site Web
-- [ ] ajouter redis database
-- [ ] curseur de chargement page d'accueil
+## Website
+- [ ] envoie de mail
 - [ ] chartre graphique page d'accueil
 - [ ] ajouter connexion dans la page d'accueil
 - [ ] ajouter formulaire qui fonctionne sur la page d'accueil
 - [ ] section liste de projets sur site web dans tel ou tel techno = preuve pour freelancer.com
-- [ ] 1/2 page de cv
+- [ ] 1 ou 2 page de cv
 - [ ] fourier sur page d'accueil
-- [ ] touch typing + django channels
-- [ ] preview site sur discord
+- [ ] touch typing + django channels / websockets
 - [ ] pdf viewer
-- article
-    - [ ] fix article regeneration
+- [ ] FTP 
+- [ ] google login
+- code app
+    - [ ] live code
+- todo app
+    - [ ] vuejs todolist + synchronisation calendrier
+    - [ ] fusion calendrier et todolist
+- article app
+    - [ ] article iframe
     - [ ] choix de thème par utilisateur button
     - [ ] choix de layout d'article par lecteur + layout par défaut pour un compte donné
     - [ ] édition de markdown en ligne + preview
     - [ ] meta données: public? + like button + auteur + compteur lectures + time
-    - [ ] remplacement [x] par checked sign
     - [ ] article download as pdf
-    - [ ] go up button
-    - [ ] h tags sizes
+    - [ ] go up button smoothly + header + footer
     - [ ] code exécutable, éditable, copiable, afficher langage
+
+
+## Isep
+### APP
+- [ ] correction problème router
+- [ ] check maxime header
+- [ ] ajouter page login
 
 ## Promotion
 - [ ] ajouter spark + aws emr au cv + linkedin + site web
@@ -49,8 +54,7 @@
 - [ ] ctf?
 - [ ] online liveshare codeshare.live
 - [ ] créer un compte fiverr
-- [ ] fusion calendrier et todolist
-- [ ] pantalon
+- [ ] recoudre: pantalon + manteau
 
 ## Tutoriels
 - [ ] 3d kit unity
@@ -81,7 +85,5 @@
 - [ ] bot discord gestion de rôle automatique + leaderboard + rename avec €
 - [ ] dotfiles
 - [ ] améliorer photo sur cvs
-
-
 
 ## Tâche de fond
