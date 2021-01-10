@@ -2,18 +2,20 @@
 
 # Todolist
 
+# Prioritaire
+- [ ] Préparer exposé d'anglais
+
 # Travail
 
 ## Isep
 
 ### Partiels
-- [ ] lire calendrier partiel
-- [ ] finir le quiz de l'architecture des ordinateurs avec lovinsky
+- [ ] finir le quiz de l'architecture des ordinateurs
 
 ### APP
-- [ ] tableau de bord
-- [ ] page profils (>= admin)
-- [ ] relecture du cahier des charges
+- [ ] [cahier des charges](https://docs.google.com/spreadsheets/d/1zGUMnjo4dYg2sJ7WfdK4NqvaUIV4ZC0w/edit?usp=drive_web&ouid=101226165324427299474&rtpof=true)
+- [ ] valider toutes mes compétences
+- [ ] forum
 
 ### IALab
 - [ ] déployer transformers en rest api
@@ -22,7 +24,7 @@
 ## Alternance
 
 ### travail
-- [ ] diagramme uml cas d'utilisation
+- [ ] format mini
 - [ ] coder
  	- [ ] translate-my-json github privé
 	- [ ] front bootstrap
@@ -37,7 +39,6 @@
 ### integration
 - [ ] lecture my skills
 - [ ] installation one note
-- [ ] presentation damien
 - [ ] lecture contrat mutuelle
 
 ## Utile
@@ -50,8 +51,8 @@
 - [ ] achat nom de domaine ovh
 
 ### plusieurs processus
+- [x] websocket serveur
 - [ ] sql explorer
-- [ ] websocket serveur
 - [ ] docker-compose
 - [ ] python subprocess + multithreading
 
