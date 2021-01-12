@@ -3,12 +3,12 @@
 # Validation javascript
 
 ## Attendu 
-- [ ] Maitriser la syntaxe et l'environnement de développement
-- [ ] Accéder aux éléments d'un document (DOM), variables, affectations, inner HTML
-- [ ] Modifier le style des éléments
-- [ ] Ajouter ou supprimer des éléments au document
-- [ ] Utiliser date, tableau, regex
+- [x] Maitriser la syntaxe et l'environnement de développement
+- [x] Accéder aux éléments d'un document (DOM), variables, affectations, inner HTML
+- [x] Modifier le style des éléments
+- [x] Ajouter ou supprimer des éléments au document
+- [x] Utiliser date, `tableau`, regex
 
 ## Au-delà 
-- [ ] AJAX
-- [ ] event listener
+- [x] AJAX
+- [x] event listener
