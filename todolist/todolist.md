@@ -2,20 +2,28 @@
 
 # Todolist
 
-# Prioritaire
-- [ ] Préparer exposé d'anglais
-
 # Travail
 
 ## Isep
 
 ### Partiels
-- [ ] finir le quiz de l'architecture des ordinateurs
+- réviser statistiques
+	- [x] statistiques 1
+	- [ ] statistiques 2
+	- [ ] statistiques 3
+- [ ] réviser télécom
+	- [ ] voir fibre multimode
+- [ ] voir le cours datascience 3
 
 ### APP
-- [ ] [cahier des charges](https://docs.google.com/spreadsheets/d/1zGUMnjo4dYg2sJ7WfdK4NqvaUIV4ZC0w/edit?usp=drive_web&ouid=101226165324427299474&rtpof=true)
-- [ ] valider toutes mes compétences
-- [ ] forum
+-  valider toutes mes compétences: [cahier des charges](https://docs.google.com/spreadsheets/d/1zGUMnjo4dYg2sJ7WfdK4NqvaUIV4ZC0w/edit?usp=drive_web&ouid=101226165324427299474&rtpof=true)
+	- [ ] afficher les résultats des test psychotechniques en s'inspirant de humbie
+	- [ ] créer un dockerfile
+	- [ ] réaliser manuel de déploiement
+	- [ ] préparer la soutenanence de vendredi
+	- [ ] réaliser un back office pour les tickets + forum 
+	- [ ] dégager normalize.css...
+	- [ ] utiliser le simulateur de la passerelle pour récupérer les trames
 
 ### IALab
 - [ ] déployer transformers en rest api
@@ -24,36 +32,36 @@
 ## Alternance
 
 ### travail
-- [ ] format mini
+- [ ] demande remboursement isep
+- [ ] conception moulinette (détailler l'approche choisie)
 - [ ] coder
- 	- [ ] translate-my-json github privé
-	- [ ] front bootstrap
-	- [ ] back .Net
+	- [ ] back .Net / react
 	- [ ] rest api google
+- [ ] configurer outlook
 
 ### bonus
-- [ ] apprendre asp .net
 - [ ] lecture du one note de sharepoint
+- [ ] lecture du document de stephane
 - [ ] mise à jour react
+- [ ] apprendre asp.net
 
 ### integration
 - [ ] lecture my skills
-- [ ] installation one note
 - [ ] lecture contrat mutuelle
 
 ## Utile
+- [ ] urssaf demande exonération ACRE
 - [ ] chercher des offres sur monster
 - [ ] carte de visite [affinity designer](/Volumes/$/Application/Affinity\ Designer.app) + [affinity photo](/Volumes/$/Application/Affinity\ Photo.app)
 
 # Perso
 
 ## Site Web
-- [ ] achat nom de domaine ovh
+- [ ] https nom de domaine
+- [ ] serveur dédié ubuntu (linode?)
 
 ### plusieurs processus
-- [x] websocket serveur
-- [ ] sql explorer
-- [ ] docker-compose
+- [ ] correction docker-compose
 - [ ] python subprocess + multithreading
 
 ### todo app
@@ -79,17 +87,14 @@
 - [ ] section liste de projets sur site web dans tel ou tel techno = preuve pour freelancer.com
 
 ### page d'accueil
-- [ ] souscription + envoie de mail
 - [ ] chartre graphique page d'accueil
 - [ ] fourier sur page d'accueil
-- [ ] ajouter connexion dans la page d'accueil
 - [ ] google login
-- [ ] ajouter formulaire qui fonctionne sur la page d'accueil
-- [ ] navbar à jour
 
 ### music app
 
 ### pandoc
+- [ ] docker texlive
 - [ ] pfdlatex bug
 - [ ] pdf viewer
 
@@ -98,7 +103,7 @@
 ### Possible
 - [ ] ajouter docker
 - [ ] version anglaise du CV
-- [ ] ajouter déploiement docker de fourier et pygame-geometry
+- [ ] ajouter déploiement docker pygame-geometry
 - [ ] bilan de compétences en latex
 
 ### En attente
@@ -142,16 +147,13 @@
 - [ ] 300/800 préparation certification linux
 
 ## Bonus
-- [ ] dotfiles
 - [ ] protection des secrets avec mac (ce dont parlait valentin)
 - [ ] bot discord gestion de rôle automatique + leaderboard + rename avec €
 - [ ] améliorer photo sur cvs
+- [ ] gestion itunes
 
 ### Lovinsky
 - [ ] qrcode
 
 ### Save
 - [ ] pygame
-
-- recoudre
-    - [ ] manteau
