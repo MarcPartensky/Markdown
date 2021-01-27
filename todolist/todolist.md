@@ -9,10 +9,9 @@
 ### Partiels
 - réviser statistiques
 	- [x] statistiques 1
-	- [ ] statistiques 2
+	- [x] statistiques 2
 	- [ ] statistiques 3
-- [ ] réviser télécom
-	- [ ] voir fibre multimode
+	- [ ] faire td isep paradise
 - [ ] voir le cours datascience 3
 
 ### APP
@@ -58,7 +57,8 @@
 
 ## Site Web
 - [ ] https nom de domaine
-- [ ] serveur dédié ubuntu (linode?)
+- [ ] serveur dédié ubuntu (linode/digitalocean?)
+- [ ] machine perso
 
 ### plusieurs processus
 - [ ] correction docker-compose
@@ -73,11 +73,11 @@
 - [ ] touch typing + django channels / websockets
 
 ### article app
-- [ ] **30 min** article iframe page index
-- [ ] **10 min** choix de thème par utilisateur button
+- [ ] article iframe page index
+- [ ] choix de thème par utilisateur button
 - [ ] choix de layout d'article par lecteur + layout par défaut pour un compte donné
-- [ ] édition de markdown en ligne + preview
-- [ ] meta données: public? + like button + auteur + compteur lectures + time
+- [ ] édition de markdown en ligne
+- [ ] meta données: like button + time
 - [ ] article download as pdf
 - [ ] go up button smoothly + header + footer
 - [ ] code exécutable, éditable, copiable, afficher langage
@@ -101,7 +101,7 @@
 ## Promotion
 
 ### Possible
-- [ ] ajouter docker
+- [ ] ajouter docker au CV
 - [ ] version anglaise du CV
 - [ ] ajouter déploiement docker pygame-geometry
 - [ ] bilan de compétences en latex
@@ -115,6 +115,7 @@
 - [ ] ctf?
 - [ ] online liveshare codeshare.live
 - [ ] expanse
+- [ ] Rappels automatiques
 
 ## Tutoriels
 
@@ -152,6 +153,10 @@
 - [ ] améliorer photo sur cvs
 - [ ] gestion itunes
 
+## Config
+- [ ] alacritty - new tab terminal
+
+## Commun
 ### Lovinsky
 - [ ] qrcode
 
