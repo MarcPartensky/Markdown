@@ -71,6 +71,10 @@
 ### code app
 - [ ] live code
 - [ ] touch typing + django channels / websockets
+- [ ] exécution de code bot discord
+	* bot, envoie commande shell python
+	* -> authentification site web
+	* -> aws ec2 sandbox exécution
 
 ### article app
 - [ ] article iframe page index
