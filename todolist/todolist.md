@@ -7,32 +7,12 @@
 ## Isep
 
 ### Partiels
-- réviser statistiques
-	- [x] statistiques 1
-	- [x] statistiques 2
-	- [ ] statistiques 3
-	- [ ] faire td isep paradise
-- [ ] voir le cours datascience 3
-
-### APP
--  valider toutes mes compétences: [cahier des charges](https://docs.google.com/spreadsheets/d/1zGUMnjo4dYg2sJ7WfdK4NqvaUIV4ZC0w/edit?usp=drive_web&ouid=101226165324427299474&rtpof=true)
-	- [ ] afficher les résultats des test psychotechniques en s'inspirant de humbie
-	- [ ] créer un dockerfile
-	- [ ] réaliser manuel de déploiement
-	- [ ] préparer la soutenanence de vendredi
-	- [ ] réaliser un back office pour les tickets + forum 
-	- [ ] dégager normalize.css...
-	- [ ] utiliser le simulateur de la passerelle pour récupérer les trames
-
-### IALab
-- [ ] déployer transformers en rest api
-- [ ] nlp specialization
+- [ ] dm de maths - voir le cours datascience 3
 
 ## Alternance
 
 ### travail
-- [ ] demande remboursement isep
-- [ ] conception moulinette (détailler l'approche choisie)
+- [ ] conception moulinette (+ détailler l'approche choisie)
 - [ ] coder
 	- [ ] back .Net / react
 	- [ ] rest api google
@@ -53,12 +33,17 @@
 - [ ] chercher des offres sur monster
 - [ ] carte de visite [affinity designer](/Volumes/$/Application/Affinity\ Designer.app) + [affinity photo](/Volumes/$/Application/Affinity\ Photo.app)
 
+### IALab
+- [ ] déployer transformers en rest api
+- [ ] nlp specialization
+
 # Perso
 
 ## Site Web
+- [x] serveur dédié ubuntu (ionos)
 - [ ] https nom de domaine
-- [ ] serveur dédié ubuntu (linode/digitalocean?)
 - [ ] machine perso
+- [ ] page promotion site webs
 
 ### plusieurs processus
 - [ ] correction docker-compose
@@ -67,6 +52,7 @@
 ### todo app
 - [ ] vuejs todolist + synchronisation calendrier
 - [ ] fusion calendrier et todolist
+- [ ] notion de dépendance
 
 ### code app
 - [ ] live code
@@ -77,15 +63,15 @@
 	* -> aws ec2 sandbox exécution
 
 ### article app
+- [x] meta données: like button + time
+- [x] numero de version article
 - [ ] article iframe page index
 - [ ] choix de thème par utilisateur button
 - [ ] choix de layout d'article par lecteur + layout par défaut pour un compte donné
 - [ ] édition de markdown en ligne
-- [ ] meta données: like button + time
 - [ ] article download as pdf
 - [ ] go up button smoothly + header + footer
 - [ ] code exécutable, éditable, copiable, afficher langage
-- [ ] numero de version article
 
 ### project app
 - [ ] section liste de projets sur site web dans tel ou tel techno = preuve pour freelancer.com
@@ -96,6 +82,7 @@
 - [ ] google login
 
 ### music app
+- [ ] deezer?
 
 ### pandoc
 - [ ] docker texlive
@@ -107,19 +94,20 @@
 ### Possible
 - [ ] ajouter docker au CV
 - [ ] version anglaise du CV
-- [ ] ajouter déploiement docker pygame-geometry
 - [ ] bilan de compétences en latex
 
 ### En attente
-- [ ] ajouter spark + aws emr au cv + linkedin + site web
+- [ ] changement site web sur linkedin
 - [ ] tensorflow au cv
+- [ ] ajouter déploiement docker pygame-geometry
 
 ## Projets
+- [ ] jeu rust multi
+- [ ] Rappels automatiques
 - [ ] compétitions de programmation google kick start?, facebook?
 - [ ] ctf?
 - [ ] online liveshare codeshare.live
 - [ ] expanse
-- [ ] Rappels automatiques
 
 ## Tutoriels
 
@@ -156,9 +144,6 @@
 - [ ] bot discord gestion de rôle automatique + leaderboard + rename avec €
 - [ ] améliorer photo sur cvs
 - [ ] gestion itunes
-
-## Config
-- [ ] alacritty - new tab terminal
 
 ## Commun
 ### Lovinsky
