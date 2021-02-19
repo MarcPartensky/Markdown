@@ -1,0 +1,266 @@
+<p>#!/usr/local/marc/markdown.py</p>
+<h1 id="todolist">Todolist</h1>
+<h1 id="travail">Travail</h1>
+<h2 id="isep">Isep</h2>
+<h3 id="ialab">IALab</h3>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+tutoriel pytorch</li>
+<li><input type="checkbox" disabled="" />
+déployer transformers en rest api</li>
+<li><input type="checkbox" disabled="" />
+nlp specialization</li>
+</ul>
+<h3 id="parcours-entreprise">Parcours entreprise</h3>
+<h2 id="alternance">Alternance</h2>
+<h3 id="travail-1">Travail</h3>
+<ul class="task-list">
+<li><p><input type="checkbox" disabled="" />
+Remplir mes temps sur TFS</p></li>
+<li><p><input type="checkbox" disabled="" />
+Vérifier le montant du salaire versé (appeler Cécilia)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Remplir mes temps sur flex? (demander à Stéphane)</p></li>
+<li><p><input type="checkbox" disabled="" />
+Conception Moulinette (+ détailler l’approche choisie)</p><ul class="task-list">
+<li><input type="checkbox" disabled="" />
+Supprimer CLI</li>
+<li><input type="checkbox" disabled="" />
+Décomposition</li>
+<li><input type="checkbox" disabled="" />
+Modifer la regex pour trouver les bons fichiers de resources</li>
+<li><input type="checkbox" disabled="" />
+Ajouter Test unitaires sur chaque fonction</li>
+<li><input type="checkbox" disabled="" />
+Verbes + options pour meilleur cohérence vis à vis des fichiers antérieurs</li>
+</ul></li>
+<li><p><input type="checkbox" disabled="" />
+Conception Site Web</p><ul class="task-list">
+<li><input type="checkbox" disabled="" />
+back .Net / react</li>
+<li><input type="checkbox" disabled="" />
+rest api google</li>
+</ul></li>
+<li><p><input type="checkbox" disabled="" />
+configurer outlook</p></li>
+</ul>
+<h3 id="bonus">bonus</h3>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+lecture du one note de sharepoint</li>
+<li><input type="checkbox" disabled="" />
+lecture du document de stephane</li>
+<li><input type="checkbox" disabled="" />
+mise à jour react</li>
+<li><input type="checkbox" disabled="" />
+apprendre asp.net</li>
+</ul>
+<h3 id="integration">integration</h3>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+lecture my skills</li>
+<li><input type="checkbox" disabled="" />
+lecture contrat mutuelle</li>
+</ul>
+<h2 id="auto-entreprise">Auto entreprise</h2>
+<ul class="task-list">
+<li><p><input type="checkbox" disabled="" />
+poster urssaf demande exonération ACRE</p></li>
+<li><p><input type="checkbox" disabled="" />
+chercher des offres sur monster</p></li>
+<li><p><input type="checkbox" disabled="" />
+carte de visite <a href="/Volumes/$/Application/Affinity%20Designer.app">affinity designer</a> + <a href="/Volumes/$/Application/Affinity%20Photo.app">affinity photo</a></p></li>
+</ul>
+<h1 id="perso">Perso</h1>
+<h2 id="url-shortener">url shortener</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+fetch and share</li>
+</ul>
+<h2 id="site-web">site web</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+page promotion site webs</li>
+</ul>
+<h3 id="todo-app">todo app</h3>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+vuejs todolist + synchronisation calendrier</li>
+<li><input type="checkbox" disabled="" />
+fusion calendrier et todolist</li>
+<li><input type="checkbox" disabled="" />
+notion de dépendance</li>
+</ul>
+<h3 id="code-app">code app</h3>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+live code</li>
+<li><input type="checkbox" disabled="" />
+touch typing + django channels / websockets</li>
+<li><input type="checkbox" disabled="" />
+exécution de code bot discord<ul>
+<li>bot, envoie commande shell python</li>
+<li>-&gt; authentification site web</li>
+<li>-&gt; aws ec2 sandbox exécution</li>
+</ul></li>
+</ul>
+<h3 id="article-app">article app</h3>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+article iframe page index</li>
+<li><input type="checkbox" disabled="" />
+choix de thème par utilisateur button</li>
+<li><input type="checkbox" disabled="" />
+choix de layout d’article par lecteur + layout par défaut pour un compte donné</li>
+<li><input type="checkbox" disabled="" />
+édition de markdown en ligne</li>
+<li><input type="checkbox" disabled="" />
+article download as pdf</li>
+<li><input type="checkbox" disabled="" />
+go up button smoothly + header + footer</li>
+<li><input type="checkbox" disabled="" />
+code exécutable, éditable, copiable, afficher langage</li>
+</ul>
+<h3 id="project-app">project app</h3>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+section liste de projets sur site web dans tel ou tel techno = preuve pour freelancer.com</li>
+</ul>
+<h3 id="page-daccueil">page d’accueil</h3>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+chartre graphique page d’accueil</li>
+<li><input type="checkbox" disabled="" />
+fourier sur page d’accueil</li>
+<li><input type="checkbox" disabled="" />
+google login</li>
+</ul>
+<h3 id="music-app">music app</h3>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+deezer?</li>
+</ul>
+<h2 id="promotion">Promotion</h2>
+<h3 id="possible">Possible</h3>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+ajouter docker au CV</li>
+<li><input type="checkbox" disabled="" />
+version anglaise du CV</li>
+<li><input type="checkbox" disabled="" />
+bilan de compétences en latex</li>
+</ul>
+<h3 id="en-attente">En attente</h3>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+changement site web sur linkedin</li>
+<li><input type="checkbox" disabled="" />
+tensorflow au cv</li>
+<li><input type="checkbox" disabled="" />
+ajouter déploiement docker pygame-geometry</li>
+</ul>
+<h2 id="projets">Projets</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+jeu rust multi</li>
+<li><input type="checkbox" disabled="" />
+Rappels automatiques</li>
+<li><input type="checkbox" disabled="" />
+compétitions de programmation google kick start?, facebook?</li>
+<li><input type="checkbox" disabled="" />
+ctf?</li>
+<li><input type="checkbox" disabled="" />
+online liveshare codeshare.live</li>
+<li><input type="checkbox" disabled="" />
+expanse</li>
+</ul>
+<h2 id="tutoriels">Tutoriels</h2>
+<h3 id="prioritaire">Prioritaire</h3>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+wordpress</li>
+<li><input type="checkbox" disabled="" />
+react native</li>
+<li><input type="checkbox" disabled="" />
+vue native</li>
+<li><input type="checkbox" disabled="" />
+3d kit unity</li>
+<li><input type="checkbox" disabled="" />
+.Net + ASP.Net</li>
+<li><input type="checkbox" disabled="" />
+nosql openclassrooms<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+rabbit mq</li>
+</ul></li>
+</ul>
+<h3 id="secondaire">Secondaire</h3>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+kubernetes</li>
+<li><input type="checkbox" disabled="" />
+rust</li>
+<li><input type="checkbox" disabled="" />
+pytorch</li>
+<li><input type="checkbox" disabled="" />
+latex</li>
+<li><input type="checkbox" disabled="" />
+sklearn</li>
+<li><input type="checkbox" disabled="" />
+angular</li>
+<li><input type="checkbox" disabled="" />
+développement mobile java</li>
+<li><input type="checkbox" disabled="" />
+portail de l’informatique</li>
+<li><input type="checkbox" disabled="" />
+go dans go</li>
+<li><input type="checkbox" disabled="" />
+scala</li>
+</ul>
+<h2 id="lectures">Lectures</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+zero to one</li>
+<li><input type="checkbox" disabled="" />
+bio Elon Musk</li>
+<li><input type="checkbox" disabled="" />
+“Quand la machine apprend” de Yann Le Cun</li>
+<li><input type="checkbox" disabled="" />
+manifeste agile</li>
+<li><input type="checkbox" disabled="" />
+87/483 c# .NET</li>
+<li><input type="checkbox" disabled="" />
+300/800 préparation certification linux</li>
+</ul>
+<h2 id="bonus-1">Bonus</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+protection des secrets avec mac (ce dont parlait valentin)</li>
+<li><input type="checkbox" disabled="" />
+améliorer photo sur cvs</li>
+<li><input type="checkbox" disabled="" />
+gestion itunes</li>
+<li><input type="checkbox" disabled="" />
+configuration des snippets</li>
+</ul>
+<h3 id="bot-discord">Bot discord</h3>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+bot discord gestion de rôle automatique + leaderboard + rename avec €</li>
+<li><input type="checkbox" disabled="" />
+sondage + ajout de réponse utilisateur dans l’embed et suppression du message</li>
+<li><input type="checkbox" disabled="" />
+cluedo sur discord</li>
+<li><input type="checkbox" disabled="" />
+record audio discord.js</li>
+</ul>
+<h2 id="commun">Commun</h2>
+<h3 id="lovinsky">Lovinsky</h3>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+qrcode</li>
+</ul>
+<h3 id="save">Save</h3>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+pygame</li>
+</ul>

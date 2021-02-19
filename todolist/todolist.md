@@ -6,17 +6,31 @@
 
 ## Isep
 
-### Partiels
-- [ ] dm de maths - voir le cours datascience 3
+### IALab
+- [ ] tutoriel pytorch
+- [ ] déployer transformers en rest api
+- [ ] nlp specialization
+
+### Parcours entreprise
 
 ## Alternance
 
-### travail
-- [ ] conception moulinette (+ détailler l'approche choisie)
-- [ ] coder
+## Prioritaire
+
+### Travail
+- [ ] Corriger mes temps sur flex étant donné la remarque de laurent
+
+- [ ] Conception Moulinette (+ détailler l'approche choisie)
+	- [x] Décomposition
+	- [x] Verbes + options pour meilleur cohérence vis à vis des fichiers antérieurs
+	- [x] Lien
+	- [ ] Ajouter Test unitaires sur chaque fonction
+	- [ ] Demander si inclure dossier `test`
+	- [ ] Demander si aucune gestion des conflits?
+
+- [ ] Conception Site Web
 	- [ ] back .Net / react
 	- [ ] rest api google
-- [ ] configurer outlook
 
 ### bonus
 - [ ] lecture du one note de sharepoint
@@ -25,29 +39,24 @@
 - [ ] apprendre asp.net
 
 ### integration
-- [ ] lecture my skills
 - [ ] lecture contrat mutuelle
+- [ ] Récupérer carte apetiz - Profiter d'Apetiz
+- [ ] lecture my skills
 
-## Utile
-- [ ] urssaf demande exonération ACRE
+## Auto entreprise
+- [ ] poster urssaf lettre exonération ACRE
+	- trouver lettre
+
 - [ ] chercher des offres sur monster
 - [ ] carte de visite [affinity designer](/Volumes/$/Application/Affinity\ Designer.app) + [affinity photo](/Volumes/$/Application/Affinity\ Photo.app)
 
-### IALab
-- [ ] déployer transformers en rest api
-- [ ] nlp specialization
 
 # Perso
 
-## Site Web
-- [x] serveur dédié ubuntu (ionos)
-- [ ] https nom de domaine
-- [ ] machine perso
+## site web
 - [ ] page promotion site webs
 
-### plusieurs processus
-- [ ] correction docker-compose
-- [ ] python subprocess + multithreading
+### url shortener app
 
 ### todo app
 - [ ] vuejs todolist + synchronisation calendrier
@@ -61,15 +70,14 @@
 	* bot, envoie commande shell python
 	* -> authentification site web
 	* -> aws ec2 sandbox exécution
+	- Vérifier implémentaton existante
 
 ### article app
-- [x] meta données: like button + time
-- [x] numero de version article
 - [ ] article iframe page index
 - [ ] choix de thème par utilisateur button
 - [ ] choix de layout d'article par lecteur + layout par défaut pour un compte donné
 - [ ] édition de markdown en ligne
-- [ ] article download as pdf
+- [ ] article download as pdf **utilisation d'api pandoc**
 - [ ] go up button smoothly + header + footer
 - [ ] code exécutable, éditable, copiable, afficher langage
 
@@ -83,11 +91,6 @@
 
 ### music app
 - [ ] deezer?
-
-### pandoc
-- [ ] docker texlive
-- [ ] pfdlatex bug
-- [ ] pdf viewer
 
 ## Promotion
 
@@ -103,7 +106,6 @@
 
 ## Projets
 - [ ] jeu rust multi
-- [ ] Rappels automatiques
 - [ ] compétitions de programmation google kick start?, facebook?
 - [ ] ctf?
 - [ ] online liveshare codeshare.live
@@ -112,6 +114,7 @@
 ## Tutoriels
 
 ### Prioritaire
+- [ ] wordpress
 - [ ] react native
 - [ ] vue native
 - [ ] 3d kit unity
@@ -141,9 +144,18 @@
 
 ## Bonus
 - [ ] protection des secrets avec mac (ce dont parlait valentin)
-- [ ] bot discord gestion de rôle automatique + leaderboard + rename avec €
+	- protection avec disque?
 - [ ] améliorer photo sur cvs
 - [ ] gestion itunes
+- [ ] configuration des snippets
+
+### Bot discord
+- [ ] bot discord gestion de rôle automatique
+- [ ] leaderboard + rename avec €
+- [ ] sondage + ajout de réponse utilisateur dans l'embed et suppression du message
+- [ ] cluedo sur discord
+- [ ] record audio discord.js
+- [ ] jail
 
 ## Commun
 ### Lovinsky
