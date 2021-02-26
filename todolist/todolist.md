@@ -3,8 +3,10 @@
 # Todolist
 
 # Travail
+- [ ] stop bnp
 
 ## Isep
+	- [ ] elearning
 
 ### IALab
 - [ ] tutoriel pytorch
@@ -18,15 +20,28 @@
 ## Prioritaire
 
 ### Travail
-- [ ] Corriger mes temps sur flex étant donné la remarque de laurent
 
-- [ ] Conception Moulinette (+ détailler l'approche choisie)
-	- [x] Décomposition
-	- [x] Verbes + options pour meilleur cohérence vis à vis des fichiers antérieurs
-	- [x] Lien
-	- [ ] Ajouter Test unitaires sur chaque fonction
-	- [ ] Demander si inclure dossier `test`
-	- [ ] Demander si aucune gestion des conflits?
+- [ ] conception moulinette (+ détailler l'approche choisie)
+	- [x] décomposition
+	- [x] verbes + options pour meilleur cohérence vis à vis des fichiers antérieurs
+	- [x] lien
+	- [x] demander si package bien ignoré
+	- [x] demander où mettre analysis readme dans le block note
+	- [x] ajouter test unitaires sur chaque fonction
+	- [x] utiliser string builder pour dicttocsv
+	- [x] uncommmit tous analysis?
+	- [x] demander si inclure dossier `test`
+	- [x] passer flux de sortie en paramètre => flux = champ public
+	- [x] uncommit packages + json
+	- [x] nouvelle branche git merge v1.0 --no-commit --no-ff
+	- [x] remplir tous les temps sur flex
+	- [x] corriger mes temps sur flex étant donné la remarque de laurent
+	- [x] git push ionos
+	- [x] jobject
+	- [ ] demander si aucune gestion des conflits?
+	- [ ] correction block note
+	- [ ] question 2 problèmes non résolues
+	- [ ] finir manuel déploiement yuri
 
 - [ ] Conception Site Web
 	- [ ] back .Net / react
@@ -44,9 +59,6 @@
 - [ ] lecture my skills
 
 ## Auto entreprise
-- [ ] poster urssaf lettre exonération ACRE
-	- trouver lettre
-
 - [ ] chercher des offres sur monster
 - [ ] carte de visite [affinity designer](/Volumes/$/Application/Affinity\ Designer.app) + [affinity photo](/Volumes/$/Application/Affinity\ Photo.app)
 
@@ -110,6 +122,7 @@
 - [ ] ctf?
 - [ ] online liveshare codeshare.live
 - [ ] expanse
+- [ ] partage d'écran avec url (idée d'Alexandre)
 
 ## Tutoriels
 
