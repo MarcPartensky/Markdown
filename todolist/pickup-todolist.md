@@ -2,17 +2,73 @@
 
 # Pickup - Todolist
 
-## Tâches
+## Alternance
 
+- [x] conception moulinette (+ détailler l'approche choisie)
+	- [x] décomposition
+	- [x] verbes + options pour meilleur cohérence vis à vis des fichiers antérieurs
+	- [x] lien
+	- [x] demander si package bien ignoré
+	- [x] demander où mettre analysis readme dans le block note
+	- [x] ajouter test unitaires sur chaque fonction
+	- [x] utiliser string builder pour dicttocsv
+	- [x] uncommmit tous analysis?
+	- [x] demander si inclure dossier `test`
+	- [x] passer flux de sortie en paramètre => flux = champ public
+	- [x] uncommit packages + json
+	- [x] nouvelle branche git merge v1.0 --no-commit --no-ff
+	- [x] remplir tous les temps sur flex
+	- [x] corriger mes temps sur flex étant donné la remarque de laurent
+	- [x] git push ionos
+	- [x] jobject
+	- [x] utiliser csv helper
+	- [x] demander si aucune gestion des conflits?
+	- [x] question 1 problème non résolue
+	- [x] retirer composition ansi
+	- [x] regex trop lâche
+	- [x] déploiement modules web
+	- [x] correction block note
+	- [x] finir présentation déploiement local
+	- [x] remplir les tests avec de vraies données
+	- [ ] ajouter des noms de colonnes
+
+- [ ] Conception Site Web
+	- [ ] back .Net / react
+	- [ ] rest api google
+
+- [ ] Conception API
+	- [ ] formation
+
+- [ ] Indicateur de supervision (Laurent)
+	- [x] entrainement
+	- [x] réalisation des graphes
+	- [x] correction des labels en haut
+	- [x] clone repo
+	- [x] remplissage des liens dans page web
+	- [x] préparer des questions pour la réunion avec Laurent
+	- [ ] réflexion kibana
+	- [ ] point Laurent
+
+### bonus
+- [ ] lecture du one note de sharepoint
+- [ ] lecture du document de stephane
+- [ ] mise à jour react
+- [ ] apprendre asp.net
+
+### integration
+- [ ] lecture contrat mutuelle
+- [ ] Récupérer carte apetiz - Profiter d'Apetiz
+- [ ] lecture my skills
+
+## Tâches
 * [x] cas d'utilisation includes inverséS
 * [x] diagramme de séquence : sélection par module
 * [x] que ce passe t-il les fichiers JSON sont mis a jour dans le code source en même temps qu'une traduction est en cours?
 * [x] appeler cecilia
 * [x] appeler thierry
-
-* [ ] mettre à jour le README
-* [ ] mettre à jour les images
-* [ ] mettre à jour les plantuml mini
+* [x] mettre à jour le README
+* [x] mettre à jour les images
+* [x] mettre à jour les plantuml mini
 
 ## À voir avec Laurent
-* [ ] un ou plusieurs fichiers CSV pour l'ensemble des fichiers JSON
+* [x] un ou plusieurs fichiers CSV pour l'ensemble des fichiers JSON

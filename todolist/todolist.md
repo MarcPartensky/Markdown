@@ -1,74 +1,36 @@
-#!/usr/local/marc/markdown.py
+#!/usr/bin/env markdown
 
 # Todolist
 
-# Travail
-- [ ] stop bnp
+## JE
+- [ ] commencer la nouvelle formation de symfony de lior Chamla
 
-## Isep
-	- [ ] elearning
-
-### IALab
+## IALab
 - [ ] tutoriel pytorch
-- [ ] déployer transformers en rest api
 - [ ] nlp specialization
 
-### Parcours entreprise
-
-## Alternance
-
-## Prioritaire
-
-### Travail
-
-- [ ] conception moulinette (+ détailler l'approche choisie)
-	- [x] décomposition
-	- [x] verbes + options pour meilleur cohérence vis à vis des fichiers antérieurs
-	- [x] lien
-	- [x] demander si package bien ignoré
-	- [x] demander où mettre analysis readme dans le block note
-	- [x] ajouter test unitaires sur chaque fonction
-	- [x] utiliser string builder pour dicttocsv
-	- [x] uncommmit tous analysis?
-	- [x] demander si inclure dossier `test`
-	- [x] passer flux de sortie en paramètre => flux = champ public
-	- [x] uncommit packages + json
-	- [x] nouvelle branche git merge v1.0 --no-commit --no-ff
-	- [x] remplir tous les temps sur flex
-	- [x] corriger mes temps sur flex étant donné la remarque de laurent
-	- [x] git push ionos
-	- [x] jobject
-	- [ ] demander si aucune gestion des conflits?
-	- [ ] correction block note
-	- [ ] question 2 problèmes non résolues
-	- [ ] finir manuel déploiement yuri
-
-- [ ] Conception Site Web
-	- [ ] back .Net / react
-	- [ ] rest api google
-
-### bonus
-- [ ] lecture du one note de sharepoint
-- [ ] lecture du document de stephane
-- [ ] mise à jour react
-- [ ] apprendre asp.net
-
-### integration
-- [ ] lecture contrat mutuelle
-- [ ] Récupérer carte apetiz - Profiter d'Apetiz
-- [ ] lecture my skills
-
 ## Auto entreprise
-- [ ] chercher des offres sur monster
-- [ ] carte de visite [affinity designer](/Volumes/$/Application/Affinity\ Designer.app) + [affinity photo](/Volumes/$/Application/Affinity\ Photo.app)
+- [ ] créer un site wordpress de présentation
 
+## Ionos
+- [ ] déploiement des box
+- [ ] prise en main traefik
+- [ ] déploiement rapide (setup.sh)
+
+## Banque
+- [ ] appel
 
 # Perso
 
-## site web
-- [ ] page promotion site webs
+# site web
+- [ ] page business
+- [ ] manifest.json
+- [ ] test poetry
+- [ ] protobuf
+- [ ] self-ngrok
 
 ### url shortener app
+- [ ] déploiement du shortener
 
 ### todo app
 - [ ] vuejs todolist + synchronisation calendrier
@@ -89,51 +51,59 @@
 - [ ] choix de thème par utilisateur button
 - [ ] choix de layout d'article par lecteur + layout par défaut pour un compte donné
 - [ ] édition de markdown en ligne
-- [ ] article download as pdf **utilisation d'api pandoc**
 - [ ] go up button smoothly + header + footer
 - [ ] code exécutable, éditable, copiable, afficher langage
 
 ### project app
 - [ ] section liste de projets sur site web dans tel ou tel techno = preuve pour freelancer.com
 
-### page d'accueil
-- [ ] chartre graphique page d'accueil
+### autres
 - [ ] fourier sur page d'accueil
 - [ ] google login
-
-### music app
-- [ ] deezer?
+- [ ] page préférence (chartre graphique?)
 
 ## Promotion
+- [ ] améliorer la qualité photo sur les cvs
+- [ ] générateur de cv
 
 ### Possible
-- [ ] ajouter docker au CV
+- [ ] chercher des offres sur monster
+- [ ] carte de visite [affinity designer](/Volumes/$/Application/Affinity\ Designer.app) + [affinity photo](/Volumes/$/Application/Affinity\ Photo.app)
+- [ ] ajouter docker au CV (version 1 page)
 - [ ] version anglaise du CV
 - [ ] bilan de compétences en latex
+- [ ] génération de cv auto
 
 ### En attente
-- [ ] changement site web sur linkedin
-- [ ] tensorflow au cv
-- [ ] ajouter déploiement docker pygame-geometry
+- [ ] pytorch & tensorflow au cv
+- [ ] ajouter déploiement docker pygame-geometry ou plutot page web
+- [ ] stop bnp après candidature je
 
 ## Projets
+- [ ] asteroids
 - [ ] jeu rust multi
 - [ ] compétitions de programmation google kick start?, facebook?
 - [ ] ctf?
 - [ ] online liveshare codeshare.live
 - [ ] expanse
-- [ ] partage d'écran avec url (idée d'Alexandre)
+- [ ] partage d'écran avec url (idée d'Alexandre, webrtc?)
+- [ ] funnel
+- [ ] [yolo api?](https://pjreddie.com/darknet/yolo/)
+- [ ] configure calendar on cloud.marcpartensky.com
+- [ ] custom prompt
 
 ## Tutoriels
 
 ### Prioritaire
+- [ ] symfony
 - [ ] wordpress
 - [ ] react native
 - [ ] vue native
 - [ ] 3d kit unity
 - [ ] .Net + ASP.Net
 - [ ] nosql openclassrooms
-	- [ ] rabbit mq
+- [ ] rabbit mq
+- [ ] terraform
 
 ### Secondaire
 - [ ] kubernetes
@@ -155,24 +125,40 @@
 - [ ] 87/483 c# .NET
 - [ ] 300/800 préparation certification linux
 
-## Bonus
-- [ ] protection des secrets avec mac (ce dont parlait valentin)
-	- protection avec disque?
 - [ ] améliorer photo sur cvs
-- [ ] gestion itunes
-- [ ] configuration des snippets
+
+### Environnement de dev
+
+#### Neovim
+- [ ] Configuration des snippets
+
+#### Dotfiles
+- [ ] Correction de la branche principale
 
 ### Bot discord
 - [ ] bot discord gestion de rôle automatique
 - [ ] leaderboard + rename avec €
 - [ ] sondage + ajout de réponse utilisateur dans l'embed et suppression du message
-- [ ] cluedo sur discord
+- [ ] cluedo sur discord (idée valentin)
 - [ ] record audio discord.js
 - [ ] jail
+- [ ] config en yaml + surcouche pyyaml
+- [ ] préfix dynamique entre serveurs discord
+- [ ] configure mongodb
 
 ## Commun
+
+### Samy
+- [ ] soom
+
+### Valentin
+- [ ] serv privé dofus
+
 ### Lovinsky
 - [ ] qrcode
+
+### Étienne
+- [ ] blackjack
 
 ### Save
 - [ ] pygame
