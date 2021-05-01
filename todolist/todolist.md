@@ -28,6 +28,7 @@
 - [ ] test poetry
 - [ ] protobuf
 - [ ] self-ngrok
+- [ ] auto migration
 
 ### url shortener app
 - [ ] déploiement du shortener
@@ -144,12 +145,14 @@
 - [ ] jail
 - [ ] config en yaml + surcouche pyyaml
 - [ ] préfix dynamique entre serveurs discord
-- [ ] configure mongodb
+- [ ] pas de dépendance mongo atlas
+- [ ] cog docker
 
 ## Commun
 
 ### Samy
 - [ ] soom
+- [ ] yabai
 
 ### Valentin
 - [ ] serv privé dofus
