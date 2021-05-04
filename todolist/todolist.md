@@ -4,12 +4,14 @@
 
 ## JE
 - [ ] commencer la nouvelle formation de symfony de lior Chamla
+- [ ] configuration de kong
 
 ## IALab
 - [ ] tutoriel pytorch
 - [ ] nlp specialization
 
 ## Auto entreprise
+- [ ] **contrat n1 wordpress**
 - [ ] créer un site wordpress de présentation
 
 ## Ionos
@@ -18,7 +20,7 @@
 - [ ] déploiement rapide (setup.sh)
 
 ## Banque
-- [ ] appel
+- [ ] bnp compte
 
 # Perso
 
@@ -90,8 +92,14 @@
 - [ ] partage d'écran avec url (idée d'Alexandre, webrtc?)
 - [ ] funnel
 - [ ] [yolo api?](https://pjreddie.com/darknet/yolo/)
-- [ ] configure calendar on cloud.marcpartensky.com
-- [ ] custom prompt
+- [ ] config calendrier cloud.marcpartensky.com
+
+## Contrôle
+- [ ] vpn serveur tower
+- [ ] mc serveur
+- [ ] docker tower + reverse proxy
+- [ ] tel2
+- [ ] tablette
 
 ## Tutoriels
 
@@ -125,16 +133,17 @@
 - [ ] manifeste agile
 - [ ] 87/483 c# .NET
 - [ ] 300/800 préparation certification linux
-
 - [ ] améliorer photo sur cvs
 
 ### Environnement de dev
 
 #### Neovim
 - [ ] Configuration des snippets
+- [ ] configuration java
 
 #### Dotfiles
 - [ ] Correction de la branche principale
+- [ ] prompt custom
 
 ### Bot discord
 - [ ] bot discord gestion de rôle automatique
