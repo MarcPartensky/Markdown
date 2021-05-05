@@ -1,36 +1,43 @@
 #!/usr/bin/env markdown
 
-# Todolist
-
-## JE
-- [ ] commencer la nouvelle formation de symfony de lior Chamla
-- [ ] configuration de kong
-
-## IALab
-- [ ] tutoriel pytorch
-- [ ] nlp specialization
+---
+# Travail
 
 ## Auto entreprise
 - [ ] **contrat n1 wordpress**
+- [ ] achat de thème
+- [ ] création des pages
 - [ ] créer un site wordpress de présentation
 
+## JE
+- [ ] configuration de kong
+- [ ] commencer la nouvelle formation de symfony de lior Chamla
+
+## IALab
+- [ ] projet gan
+- [ ] tutoriel pytorch
+- [ ] nlp specialization
+
+## Banque
+- [ ] fermer bnp compte
+
+---
+# Bonus
+
 ## Ionos
+- [ ] jenkins ci/cd
 - [ ] déploiement des box
 - [ ] prise en main traefik
 - [ ] déploiement rapide (setup.sh)
 
-## Banque
-- [ ] bnp compte
-
-# Perso
-
-# site web
+## Site web
 - [ ] page business
 - [ ] manifest.json
 - [ ] test poetry
 - [ ] protobuf
 - [ ] self-ngrok
 - [ ] auto migration
+- [ ] swagger
 
 ### url shortener app
 - [ ] déploiement du shortener
@@ -96,7 +103,7 @@
 
 ## Contrôle
 - [ ] vpn serveur tower
-- [ ] mc serveur
+- [ ] mc serveur tower
 - [ ] docker tower + reverse proxy
 - [ ] tel2
 - [ ] tablette
@@ -108,23 +115,23 @@
 - [ ] wordpress
 - [ ] react native
 - [ ] vue native
+- [ ] pytorch
 - [ ] 3d kit unity
 - [ ] .Net + ASP.Net
-- [ ] nosql openclassrooms
 - [ ] rabbit mq
-- [ ] terraform
 
 ### Secondaire
 - [ ] kubernetes
 - [ ] rust
-- [ ] pytorch
 - [ ] latex
 - [ ] sklearn
 - [ ] angular
 - [ ] développement mobile java
 - [ ] portail de l'informatique
+- [ ] nosql openclassrooms
 - [ ] go dans go
 - [ ] scala
+- [ ] terraform
 
 ## Lectures
 - [ ] zero to one
@@ -138,7 +145,7 @@
 ### Environnement de dev
 
 #### Neovim
-- [ ] Configuration des snippets
+- [ ] configuration des snippets
 - [ ] configuration java
 
 #### Dotfiles
@@ -149,13 +156,11 @@
 - [ ] bot discord gestion de rôle automatique
 - [ ] leaderboard + rename avec €
 - [ ] sondage + ajout de réponse utilisateur dans l'embed et suppression du message
-- [ ] cluedo sur discord (idée valentin)
 - [ ] record audio discord.js
 - [ ] jail
 - [ ] config en yaml + surcouche pyyaml
 - [ ] préfix dynamique entre serveurs discord
 - [ ] pas de dépendance mongo atlas
-- [ ] cog docker
 
 ## Commun
 
@@ -165,6 +170,7 @@
 
 ### Valentin
 - [ ] serv privé dofus
+- [ ] cluedo sur discord
 
 ### Lovinsky
 - [ ] qrcode
