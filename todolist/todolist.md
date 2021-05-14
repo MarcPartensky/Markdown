@@ -5,7 +5,6 @@
 
 ## Auto entreprise
 - [ ] **contrat n1 wordpress**
-- [ ] achat de thème
 - [ ] création des pages
 - [ ] créer un site wordpress de présentation
 
