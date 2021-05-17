@@ -142,9 +142,9 @@
 
 #### Neovim
 - [ ] configuration des snippets
-- [ ] configuration java
 
 #### Dotfiles
+- [ ] yabai
 - [ ] Correction de la branche principale
 - [ ] prompt custom
 
@@ -162,7 +162,6 @@
 
 ### Samy
 - [ ] soom
-- [ ] yabai
 
 ### Valentin
 - [ ] serv privé dofus
