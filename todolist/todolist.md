@@ -38,9 +38,6 @@
 - [ ] auto migration
 - [ ] swagger
 
-### url shortener app
-- [ ] déploiement du shortener
-
 ### todo app
 - [ ] vuejs todolist + synchronisation calendrier
 - [ ] fusion calendrier et todolist
