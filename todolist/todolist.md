@@ -36,7 +36,12 @@
 - [ ] protobuf
 - [ ] self-ngrok
 - [ ] auto migration
-- [ ] swagger
+
+### url shortener
+- [ ] stocker chaque requête (timestamp, adresse ip, mac adress?, token)
+- [ ] nombre de redirections
+- [ ] afficher id d'utilisateur
+- [ ] utilisation de bearer token
 
 ### todo app
 - [ ] vuejs todolist + synchronisation calendrier
