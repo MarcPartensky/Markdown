@@ -4,21 +4,27 @@
 # Travail
 
 ## Auto entreprise
-- [ ] **contrat n1 wordpress**
-- [ ] création des pages
+- [ ] **signer contrat n1 wordpress**
 - [ ] créer un site wordpress de présentation
 
-## JE
-- [ ] configuration de kong
-- [ ] commencer la nouvelle formation de symfony de lior Chamla
+## Isep
+- [ ] Rapport science du numérique
+- [ ] Projet réseau
 
 ## IALab
 - [ ] projet gan
 - [ ] tutoriel pytorch
 - [ ] nlp specialization
 
+## JE
+- [ ] configuration de kong
+
+## Alternance
+- [ ] Lire les consignes d'alternance
+- [ ] Rapport d'alternance
+
 ## Banque
-- [ ] fermer bnp compte
+- [ ] fermer compte bnp
 
 ---
 # Bonus
@@ -35,12 +41,9 @@
 - [ ] test poetry
 - [ ] protobuf
 - [ ] self-ngrok
-- [ ] auto migration
 
 ### url shortener
-- [ ] stocker chaque requête (timestamp, adresse ip, mac adress?, token)
 - [ ] nombre de redirections
-- [ ] afficher id d'utilisateur
 - [ ] utilisation de bearer token
 
 ### todo app
@@ -64,6 +67,7 @@
 - [ ] édition de markdown en ligne
 - [ ] go up button smoothly + header + footer
 - [ ] code exécutable, éditable, copiable, afficher langage
+- [ ] voler le thème du eliavana machin
 
 ### project app
 - [ ] section liste de projets sur site web dans tel ou tel techno = preuve pour freelancer.com
@@ -88,7 +92,6 @@
 ### En attente
 - [ ] pytorch & tensorflow au cv
 - [ ] ajouter déploiement docker pygame-geometry ou plutot page web
-- [ ] stop bnp après candidature je
 
 ## Projets
 - [ ] asteroids
@@ -133,6 +136,7 @@
 - [ ] go dans go
 - [ ] scala
 - [ ] terraform
+- [ ] commencer la nouvelle formation de symfony de lior Chamla
 
 ## Lectures
 - [ ] zero to one
