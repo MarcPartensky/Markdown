@@ -156,7 +156,7 @@
 - [ ] configuration des snippets
 
 #### Dotfiles
-- [ ] yabai
+- [ ] Configurer yabai
 - [ ] Correction de la branche principale
 - [ ] prompt custom
 
