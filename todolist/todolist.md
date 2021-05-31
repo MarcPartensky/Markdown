@@ -8,13 +8,8 @@
 - [ ] créer un site wordpress de présentation
 
 ## Isep
-- [ ] Rapport science du numérique
+- [ ] King Domino
 - [ ] Projet réseau
-
-## IALab
-- [ ] projet gan
-- [ ] tutoriel pytorch
-- [ ] nlp specialization
 
 ## JE
 - [ ] configuration de kong
@@ -22,6 +17,12 @@
 ## Alternance
 - [ ] Lire les consignes d'alternance
 - [ ] Rapport d'alternance
+
+## Formation
+- [ ] Corriger plan de formation
+
+## IALab
+- [ ] projet gan
 
 ## Banque
 - [ ] fermer compte bnp
@@ -137,6 +138,8 @@
 - [ ] scala
 - [ ] terraform
 - [ ] commencer la nouvelle formation de symfony de lior Chamla
+- [ ] tutoriel pytorch
+- [ ] nlp specialization
 
 ## Lectures
 - [ ] zero to one
