@@ -8,18 +8,16 @@
 - [ ] créer un site wordpress de présentation
 
 ## Isep
-- [ ] King Domino
-- [ ] Projet réseau
+- [ ] king domino
 
 ## JE
 - [ ] configuration de kong
 
 ## Alternance
-- [ ] Lire les consignes d'alternance
-- [ ] Rapport d'alternance
+- [ ] lire les consignes d'alternance dans le bus
 
 ## Formation
-- [ ] Corriger plan de formation
+- [ ] modifier les images dans le plan de formation
 
 ## IALab
 - [ ] projet gan
@@ -29,6 +27,12 @@
 
 ---
 # Bonus
+
+## Prendre le contrôle
+- [ ] Déployer 3 serveurs vpn
+- [ ] Déployer 1 conteneur par distro linux sur la tour
+- [ ] Migrer conteneurs du vps sur la tour
+- [ ] Démon [ssh in python](https://gist.github.com/bortzmeyer/1284249)
 
 ## Ionos
 - [ ] jenkins ci/cd
