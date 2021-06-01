@@ -14,7 +14,7 @@
 - [ ] configuration de kong
 
 ## Alternance
-- [ ] lire les consignes d'alternance dans le bus
+- [ ] Lire les consignes d'alternance dans le bus
 
 ## Formation
 - [ ] modifier les images dans le plan de formation
@@ -29,10 +29,15 @@
 # Bonus
 
 ## Prendre le contrôle
-- [ ] Déployer 3 serveurs vpn
+- [ ] VPN sur vps, tour, lxc
+- [ ] Serveurs DNS privé (tour, vps) dockerisé si possible
 - [ ] Déployer 1 conteneur par distro linux sur la tour
 - [ ] Migrer conteneurs du vps sur la tour
-- [ ] Démon [ssh in python](https://gist.github.com/bortzmeyer/1284249)
+- [ ] Serveur vpn dédié
+- [ ] Démon glou [ssh in python](https://gist.github.com/bortzmeyer/1284249)
+- [ ] Chiffrement par mot de passe simple
+- [ ] Config yabai et skhd
+- [ ] Config ssh par symlink
 
 ## Ionos
 - [ ] jenkins ci/cd
@@ -120,8 +125,9 @@
 ## Tutoriels
 
 ### Prioritaire
-- [ ] symfony
 - [ ] wordpress
+- [ ] symfony
+- [ ] makefile
 - [ ] react native
 - [ ] vue native
 - [ ] pytorch
