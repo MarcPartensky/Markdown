@@ -29,18 +29,18 @@
 # Bonus
 
 ## Prendre le contrôle
-- [ ] VPN sur vps, tour, lxc
-- [ ] Serveurs DNS privé (tour, vps) dockerisé si possible
-- [ ] Déployer 1 conteneur par distro linux sur la tour
-- [ ] Migrer conteneurs du vps sur la tour
-- [ ] Serveur vpn dédié
-- [ ] Démon glou [ssh in python](https://gist.github.com/bortzmeyer/1284249)
-- [ ] Chiffrement par mot de passe simple
-- [ ] Config yabai et skhd
-- [ ] Config ssh par symlink
+- [ ] vpn sur vps, tour, lxc
+- [ ] serveurs dns privé (tour, vps) dockerisé si possible
+- [ ] déployer 1 conteneur par distro linux sur la tour
+- [ ] migrer conteneurs du vps sur la tour
+- [ ] serveur vpn dédié
+- [ ] démon glou [ssh in python](https://gist.github.com/bortzmeyer/1284249)
+- [ ] chiffrement par mot de passe simple
+- [ ] config yabai et skhd
+- [ ] config ssh par symlink
 
 ## Ionos
-- [ ] jenkins ci/cd
+- [ ] jenkins ci/cd (vps + tour)
 - [ ] déploiement des box
 - [ ] prise en main traefik
 - [ ] déploiement rapide (setup.sh)
@@ -166,9 +166,8 @@
 - [ ] configuration des snippets
 
 #### Dotfiles
-- [ ] Configurer yabai
-- [ ] Correction de la branche principale
-- [ ] prompt custom
+- [ ] correction de la branche principale (autocomplete plugin)
+- [ ] custom prompt
 
 ### Bot discord
 - [ ] bot discord gestion de rôle automatique
