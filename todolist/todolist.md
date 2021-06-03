@@ -14,7 +14,7 @@
 - [ ] configuration de kong
 
 ## Alternance
-- [ ] Lire les consignes d'alternance dans le bus
+- [ ] lire les consignes d'alternance dans le bus
 
 ## Formation
 - [ ] modifier les images dans le plan de formation
@@ -33,7 +33,7 @@
 - [ ] serveurs dns privé (tour, vps) dockerisé si possible
 - [ ] déployer 1 conteneur par distro linux sur la tour
 - [ ] migrer conteneurs du vps sur la tour
-- [ ] serveur vpn dédié
+- [ ] connexion sécurisé (vpn + tor + vps)
 - [ ] démon glou [ssh in python](https://gist.github.com/bortzmeyer/1284249)
 - [ ] chiffrement par mot de passe simple
 - [ ] config yabai et skhd
