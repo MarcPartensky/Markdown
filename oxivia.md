@@ -25,7 +25,14 @@ Des zones de texte seront ensuite alternées avec des images pour donner une pr�
 
 ## Semaine 3
 ### Contact
-- [ ] Afficher les coordonnées de l'entreprise avez texte et maps: nom, mail, objet, tel, message, captcha, horaires
+- [ ] Afficher les coordonnées de l'entreprise avez texte et maps:
+	- [x] nom
+	- [x] mail
+	- [x] tel
+	- [ ] objet
+	- [ ] message
+	- [ ] captcha
+	- [ ] horaires
 - [ ] Contacter oxivia avec formulaire et bouton envoyer
 
 ## Semaine 4
