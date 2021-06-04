@@ -37,7 +37,6 @@
 - [ ] démon glou [ssh in python](https://gist.github.com/bortzmeyer/1284249)
 - [ ] chiffrement par mot de passe simple
 - [ ] config yabai et skhd
-- [ ] config ssh par symlink
 
 ## Ionos
 - [ ] jenkins ci/cd (vps + tour)
@@ -98,6 +97,7 @@
 - [ ] version anglaise du CV
 - [ ] bilan de compétences en latex
 - [ ] génération de cv auto
+- [ ] [trello clone](https://github.com/vdevired/trello-clone)
 
 ### En attente
 - [ ] pytorch & tensorflow au cv
