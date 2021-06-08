@@ -12,6 +12,7 @@
 
 ## JE
 - [ ] configuration de kong
+- [ ] connexion docker-playground
 
 ## Alternance
 - [ ] lire les consignes d'alternance dans le bus
@@ -34,7 +35,7 @@
 - [ ] déployer 1 conteneur par distro linux sur la tour
 - [ ] migrer conteneurs du vps sur la tour
 - [ ] connexion sécurisé (vpn + tor + vps)
-- [ ] démon glou [ssh in python](https://gist.github.com/bortzmeyer/1284249)
+- [ ] démon glou [ssh in python](https://gist.github.com/bortzmeyer/1284249), [message queue](https://docs.celeryproject.org/en/stable/getting-started/first-steps-with-celery.html#installing-celery)
 - [ ] chiffrement par mot de passe simple
 - [ ] config yabai et skhd
 
