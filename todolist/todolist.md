@@ -12,10 +12,11 @@
 
 ## JE
 - [ ] configuration de kong
-- [ ] connexion docker-playground
+- [ ] tunnel ssh docker-playground + vpn?
 
 ## Alternance
 - [ ] lire les consignes d'alternance dans le bus
+- [ ] lire cv gaullemin + payen + rtech sortants + Maxime
 
 ## Formation
 - [ ] modifier les images dans le plan de formation
@@ -36,8 +37,8 @@
 - [ ] migrer conteneurs du vps sur la tour
 - [ ] connexion sécurisé (vpn + tor + vps)
 - [ ] démon glou [ssh in python](https://gist.github.com/bortzmeyer/1284249), [message queue](https://docs.celeryproject.org/en/stable/getting-started/first-steps-with-celery.html#installing-celery)
-- [ ] chiffrement par mot de passe simple
-- [ ] config yabai et skhd
+- [ ] chiffrement par mot de passe simple (gnu pass sans clé)
+- [ ] config yabai et skhd (avancé tutos samy)
 
 ## Ionos
 - [ ] jenkins ci/cd (vps + tour)
@@ -117,11 +118,8 @@
 - [ ] config calendrier cloud.marcpartensky.com
 
 ## Contrôle
-- [ ] vpn serveur tower
 - [ ] mc serveur tower
 - [ ] docker tower + reverse proxy
-- [ ] tel2
-- [ ] tablette
 
 ## Tutoriels
 
