@@ -6,6 +6,7 @@
 ## Auto entreprise
 - [ ] **signer contrat n1 wordpress**
 - [ ] créer un site wordpress de présentation
+- [ ] modifier les images dans le plan de formation
 
 ## Isep
 - [ ] king domino
@@ -17,9 +18,6 @@
 ## Alternance
 - [ ] lire les consignes d'alternance dans le bus
 - [ ] lire cv gaullemin + payen + rtech sortants + Maxime
-
-## Formation
-- [ ] modifier les images dans le plan de formation
 
 ## IALab
 - [ ] projet gan
