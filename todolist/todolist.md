@@ -176,6 +176,24 @@
 - [ ] préfix dynamique entre serveurs discord
 - [ ] pas de dépendance mongo atlas
 
+## Certifications
+### Machine Learning
+- [ ] Harvard (gratuit): https://www.edx.org/course/data-science-machine-learning
+- [ ] Berkely (gratuit): https://www.edx.org/professional-certificate/berkeleyx-foundations-of-data-science
+- [ ] Cours connus: https://www.learndatasci.com/best-machine-learning-courses/
+
+### Cyber sécurité
+- [ ] CTF
+- [ ] Certified Ethical Hacker (CEH)
+- [ ] CompTIA Security+
+- [ ] Certified Information System Security Professional (CISSP)
+- [ ] Certified Information Security Manager (CISM)
+- [ ] Certified Information Systems Auditor (CISA)
+- [ ] NIST Cybersecurity Framework (NCSF)
+- [ ] Certified Cloud Security Professional (CCSP)
+- [ ] Computer Hacking Forensic Investigator (CHFI)
+- [ ] Cisco Certified Network Associate (CCNA) Security
+
 ## Commun
 
 ### Samy
