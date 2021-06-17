@@ -16,8 +16,8 @@
 - [ ] tunnel ssh docker-playground + vpn?
 
 ## Alternance
+- [ ] faire cv alternance
 - [ ] lire les consignes d'alternance dans le bus
-- [ ] lire cv gaullemin + payen + rtech sortants + Maxime
 
 ## IALab
 - [ ] projet gan
