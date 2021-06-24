@@ -4,20 +4,21 @@
 # Travail
 
 ## Auto entreprise
-- [ ] **signer contrat n1 wordpress**
-- [ ] créer un site wordpress de présentation
+<!-- - [ ] créer un site wordpress de présentation -->
+- [ ] créer un page de présentation
 - [ ] modifier les images dans le plan de formation
 
 ## Isep
-- [ ] king domino
+- [ ] app intégration
 
 ## JE
+- [x] tunnel ssh docker-playground
 - [ ] configuration de kong
-- [ ] tunnel ssh docker-playground + vpn?
+- [ ] docker-playground vpn?
 
 ## Alternance
-- [ ] faire cv alternance
-- [ ] lire les consignes d'alternance dans le bus
+- [ ] voir villegas vérifier alternance en juillet
+- [ ] faire cv 2 pages pour alternances
 
 ## IALab
 - [ ] projet gan
@@ -29,6 +30,7 @@
 # Bonus
 
 ## Prendre le contrôle
+- [ ] config workspaces yabai et skhd (avancé tutos samy)
 - [ ] vpn sur vps, tour, lxc
 - [ ] serveurs dns privé (tour, vps) dockerisé si possible
 - [ ] déployer 1 conteneur par distro linux sur la tour
@@ -36,7 +38,6 @@
 - [ ] connexion sécurisé (vpn + tor + vps)
 - [ ] démon glou [ssh in python](https://gist.github.com/bortzmeyer/1284249), [message queue](https://docs.celeryproject.org/en/stable/getting-started/first-steps-with-celery.html#installing-celery)
 - [ ] chiffrement par mot de passe simple (gnu pass sans clé)
-- [ ] config yabai et skhd (avancé tutos samy)
 
 ## Ionos
 - [ ] jenkins ci/cd (vps + tour)
@@ -87,7 +88,6 @@
 - [ ] page préférence (chartre graphique?)
 
 ## Promotion
-- [ ] améliorer la qualité photo sur les cvs
 - [ ] générateur de cv
 
 ### Possible
@@ -122,7 +122,7 @@
 ## Tutoriels
 
 ### Prioritaire
-- [ ] wordpress
+- [x] wordpress
 - [ ] symfony
 - [ ] makefile
 - [ ] react native

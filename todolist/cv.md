@@ -8,3 +8,4 @@
 - [ ] Expérience en 2
 - [ ] Compétences et langues en 3
 - [ ] objectif : plus précis durée alternance + dans quoi + à partir de 
+- [ ] faire test espagnol pour avoir lettre précise
