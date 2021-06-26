@@ -8,11 +8,7 @@
 - [ ] créer un page de présentation
 - [ ] modifier les images dans le plan de formation
 
-## Isep
-- [ ] app intégration
-
 ## JE
-- [x] tunnel ssh docker-playground
 - [ ] configuration de kong
 - [ ] docker-playground vpn?
 
