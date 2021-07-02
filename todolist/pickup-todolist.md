@@ -30,7 +30,10 @@
 	- [x] correction block note
 	- [x] finir présentation déploiement local
 	- [x] remplir les tests avec de vraies données
-	- [ ] ajouter des noms de colonnes
+	- [x] ajouter des noms de colonnes
+	- [x] changement de namespace
+	- [ ] fichier de config en json
+	- [ ] rédaction des tests
 
 - [ ] Conception Site Web
 	- [ ] back .Net / react
@@ -52,7 +55,6 @@
 ### bonus
 - [ ] lecture du one note de sharepoint
 - [ ] lecture du document de stephane
-- [ ] mise à jour react
 - [ ] apprendre asp.net
 
 ### integration

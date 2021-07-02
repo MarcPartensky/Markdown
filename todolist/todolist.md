@@ -11,6 +11,9 @@
 ## JE
 - [ ] configuration de kong
 - [ ] docker-playground vpn?
+- [ ] wordpress pierre
+- [ ] mission theo
+- [ ] familarité avec phoenix-api + ssh alias
 
 ## Alternance
 - [ ] voir villegas vérifier alternance en juillet
