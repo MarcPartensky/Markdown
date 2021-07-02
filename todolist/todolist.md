@@ -7,16 +7,16 @@
 <!-- - [ ] créer un site wordpress de présentation -->
 - [ ] créer un page de présentation
 - [ ] modifier les images dans le plan de formation
+- [ ] plan de formation maman
 
 ## JE
 - [ ] configuration de kong
 - [ ] docker-playground vpn?
 - [ ] wordpress pierre
-- [ ] mission theo
+- [ ] mission theo avec alexis
 - [ ] familarité avec phoenix-api + ssh alias
 
 ## Alternance
-- [ ] voir villegas vérifier alternance en juillet
 - [ ] faire cv 2 pages pour alternances
 
 ## IALab
