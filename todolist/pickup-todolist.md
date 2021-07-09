@@ -32,15 +32,8 @@
 	- [x] remplir les tests avec de vraies données
 	- [x] ajouter des noms de colonnes
 	- [x] changement de namespace
-	- [ ] fichier de config en json
-	- [ ] rédaction des tests
-
-- [ ] Conception Site Web
-	- [ ] back .Net / react
-	- [ ] rest api google
-
-- [ ] Conception API
-	- [ ] formation
+	- [x] fichier de config en json
+	- [x] rédaction des tests
 
 - [ ] Indicateur de supervision (Laurent)
 	- [x] entrainement
@@ -49,17 +42,20 @@
 	- [x] clone repo
 	- [x] remplissage des liens dans page web
 	- [x] préparer des questions pour la réunion avec Laurent
-	- [ ] réflexion kibana
-	- [ ] point Laurent
+	- [ ] organiser réunion avec laurent et yuri
+	- [ ] déplié par défaut
+
 
 ### bonus
 - [ ] lecture du one note de sharepoint
 - [ ] lecture du document de stephane
 - [ ] apprendre asp.net
+- [ ] back .Net / react
+- [ ] formation
 
 ### integration
+- [ ] appeler pour récupérer carte apetiz - profiter d'apetiz
 - [ ] lecture contrat mutuelle
-- [ ] Récupérer carte apetiz - Profiter d'Apetiz
 - [ ] lecture my skills
 
 ## Tâches

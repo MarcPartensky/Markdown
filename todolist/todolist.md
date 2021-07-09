@@ -4,23 +4,18 @@
 # Travail
 
 ## Auto entreprise
-<!-- - [ ] créer un site wordpress de présentation -->
 - [ ] créer un page de présentation
 - [ ] modifier les images dans le plan de formation
-- [ ] plan de formation maman
+<!-- - [ ] créer un site wordpress de présentation -->
 
 ## JE
 - [ ] configuration de kong
-- [ ] docker-playground vpn?
-- [ ] wordpress pierre
 - [ ] mission theo avec alexis
-- [ ] familarité avec phoenix-api + ssh alias
+- [ ] familarité avec phoenix-api
 
 ## Alternance
+- [ ] corriger cv payen
 - [ ] faire cv 2 pages pour alternances
-
-## IALab
-- [ ] projet gan
 
 ## Banque
 - [ ] fermer compte bnp
@@ -30,7 +25,7 @@
 
 ## Prendre le contrôle
 - [ ] config workspaces yabai et skhd (avancé tutos samy)
-- [ ] vpn sur vps, tour, lxc
+- [ ] vpn sur vps, tour
 - [ ] serveurs dns privé (tour, vps) dockerisé si possible
 - [ ] déployer 1 conteneur par distro linux sur la tour
 - [ ] migrer conteneurs du vps sur la tour
