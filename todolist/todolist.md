@@ -9,7 +9,7 @@
 <!-- - [ ] créer un site wordpress de présentation -->
 
 ## JE
-- [ ] configuration de kong
+- [ ] travail sur schtroumfix avec gaspard
 - [ ] mission theo avec alexis
 - [ ] familarité avec phoenix-api
 
@@ -40,14 +40,13 @@
 - [ ] déploiement rapide (setup.sh)
 
 ## Site web
+- [ ] addresse ip self-ngrok (=expose)
 - [ ] page business
 - [ ] manifest.json
 - [ ] test poetry
 - [ ] protobuf
-- [ ] self-ngrok
 
 ### url shortener
-- [ ] nombre de redirections
 - [ ] utilisation de bearer token
 
 ### todo app
@@ -116,7 +115,6 @@
 ## Tutoriels
 
 ### Prioritaire
-- [x] wordpress
 - [ ] symfony
 - [ ] makefile
 - [ ] react native
@@ -149,7 +147,6 @@
 - [ ] manifeste agile
 - [ ] 87/483 c# .NET
 - [ ] 300/800 préparation certification linux
-- [ ] améliorer photo sur cvs
 
 ### Environnement de dev
 

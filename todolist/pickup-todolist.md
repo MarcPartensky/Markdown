@@ -42,8 +42,8 @@
 	- [x] clone repo
 	- [x] remplissage des liens dans page web
 	- [x] préparer des questions pour la réunion avec Laurent
-	- [ ] organiser réunion avec laurent et yuri
-	- [ ] déplié par défaut
+	- [x] déplié par défaut
+	- [x] organiser réunion avec laurent et yuri
 
 
 ### bonus
@@ -51,10 +51,9 @@
 - [ ] lecture du document de stephane
 - [ ] apprendre asp.net
 - [ ] back .Net / react
-- [ ] formation
 
 ### integration
-- [ ] appeler pour récupérer carte apetiz - profiter d'apetiz
+- [x] appeler pour récupérer carte apetiz - profiter d'apetiz
 - [ ] lecture contrat mutuelle
 - [ ] lecture my skills
 
