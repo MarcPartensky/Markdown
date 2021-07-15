@@ -3,9 +3,9 @@
 - [x] pas de réseaux sociaux
 - [x] retirer mentions légales
 - [ ] récupérer description boutique
-- [ ] récupérer description repassage
-- [ ] récupérer description ménage
-- [ ] read more => en savoir plus
+- [x] récupérer description repassage
+- [x] récupérer description ménage
+- [x] read more => en savoir plus
 - [x] espace avant !
 - [ ] our working process
 - [x] retirer our recent projects
@@ -62,12 +62,12 @@
 - [x] images
 
 ### Repassage
-- [ ] Présenter les services et ses modalités avec
-- [ ] zone de texte 
-- [ ] images
+- [x] Présenter les services et ses modalités avec
+- [x] zone de texte 
+- [x] images
 
 ### Ménage
-- [ ] Présenter les services et ses modalités avec zone de texte et images
+- [x] Présenter les services et ses modalités avec zone de texte et images
 
 ## Semaine 5
 ### Jardin et espace vert (publié)
@@ -77,16 +77,6 @@
 ### Service à la personne (publié)
 - [ ] Illustrer les activités d'entretien avec zones de texte dynamiques par dessus
 - [ ] Présenter les activités succintement avec des boutons cliquables vers les pages
-
-### Nos activités (publié)
-- [ ] Présenter les services et leurs modalités (texte + image)
-- [ ] Accéder à l'entreprise partenaire avec bouton de redirection
-Une attention toute particulière sera apportée à la page « Nos activités » qui présentera uniquement les offres de jardinage accessibles aux particuliers.
-
-### Offre entreprise (publié)
-- [ ] Présenter les services et leurs modalités (texte + image)
-- [ ] Accéder à l'entreprise partenaire avec bouton de redirection
-La page « Offre entreprise » présentera succinctement l’entreprise partenaire et mettra en évidence le site « Oxivia-jardinage ».
 
 ### Mentions Légales (publié)
 		- [ ] Afficher les mentions légales de l'entreprise
