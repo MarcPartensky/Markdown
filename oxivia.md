@@ -1,5 +1,21 @@
 # Oxivia
 
+- [x] pas de réseaux sociaux
+- [x] retirer mentions légales
+- [ ] récupérer description boutique
+- [ ] récupérer description repassage
+- [ ] récupérer description ménage
+- [ ] read more => en savoir plus
+- [x] espace avant !
+- [ ] our working process
+- [x] retirer our recent projects
+- [x] retirer our latest blogs
+- [x] retirer bouton 'Sélectionner' section tarifs
+- [x] déplacer texte de tout frais compris dans tarifs ménage
+- [x] corriger header wtf = sans nos activités et offre entreprise
+- [x] retirer le "home >> contact" = plus de bannière
+
+
 ## Semaine 2
 ### Header (ok)
 - [x] Accéder aux pages du site Internet - Bouton spécifique
@@ -7,14 +23,13 @@
 - [x] Jardin et espace vert - Accéder à une page particulière - Menu déroulant
 - [x] Entretien de la maison - Bouton spécifique
 - [x] Entretien de la maison - Accéder à une page particulière - Menu déroulant
-		- [ ] Logo du client (Meilleur logo)
+- [ ] Logo du client (logo compressé)
 
 ### Footer (ok)
 - [x] Bouton page Mention Légales
 - [x] Accéder au plan du site via bouton
 - [x] Bouton accéder aux réseaux sociaux
 - [x] Afficher les coordonnées de la boutique
-		- [ ] Afficher la boutique sur la carte (trop compliqué)
 - [ ] Afficher les informations suivantes
 	- [x] num
 	- [x] mail
@@ -27,7 +42,6 @@
 - [x] Présenter l'entreprise avec zone de texte et images
 - [x] Des zones de texte seront ensuite alternées avec des images pour donner une présentation claire et esthétique de l’entreprise 
 - [x] son histoire
-		- [ ] son propriétaire.
 
 ## Semaine 3
 ### Contact (publié)
@@ -44,8 +58,8 @@
 ## Semaine 4
 ### Entretien de la maison
 - [ ] Présenter les services et ses modalités avec
-- [ ] zone de texte
-- [ ] images
+- [x] zone de texte
+- [x] images
 
 ### Repassage
 - [ ] Présenter les services et ses modalités avec
@@ -75,7 +89,7 @@ Une attention toute particulière sera apportée à la page « Nos activités »
 La page « Offre entreprise » présentera succinctement l’entreprise partenaire et mettra en évidence le site « Oxivia-jardinage ».
 
 ### Mentions Légales (publié)
-- [ ] Afficher les mentions légales de l'entreprise
+		- [ ] Afficher les mentions légales de l'entreprise
 
 ### Plan du site (comment)
 La page « Plan du site » sera accessible depuis le footer. Cette dernière commencera par un titre. En dessous, sous la forme d’une liste à puces de liens de redirection, sera présenté le plan du site. La hiérarchie de la liste à puces correspondra à l’arborescence du site Internet.

@@ -4,14 +4,16 @@
 # Travail
 
 ## Auto entreprise
-- [ ] créer un page de présentation
+- [ ] finir le site wordpress
+- [ ] créer une page de présentation
 - [ ] modifier les images dans le plan de formation
 <!-- - [ ] créer un site wordpress de présentation -->
 
 ## JE
-- [ ] travail sur schtroumfix avec gaspard
+- [ ] travail sur schtroumpfix avec gaspard
 - [ ] mission theo avec alexis
 - [ ] familarité avec phoenix-api
+- [ ] [url shortener]()
 
 ## Alternance
 - [ ] corriger cv payen
@@ -23,24 +25,25 @@
 ---
 # Bonus
 
-## Prendre le contrôle
+## prendre le contrôle
 - [ ] config workspaces yabai et skhd (avancé tutos samy)
 - [ ] vpn sur vps, tour
 - [ ] serveurs dns privé (tour, vps) dockerisé si possible
 - [ ] déployer 1 conteneur par distro linux sur la tour
-- [ ] migrer conteneurs du vps sur la tour
+- [ ] tri des conteneurs à migrer du vps sur la tour
 - [ ] connexion sécurisé (vpn + tor + vps)
 - [ ] démon glou [ssh in python](https://gist.github.com/bortzmeyer/1284249), [message queue](https://docs.celeryproject.org/en/stable/getting-started/first-steps-with-celery.html#installing-celery)
 - [ ] chiffrement par mot de passe simple (gnu pass sans clé)
+- [ ] téléchargement de vidéo youtube dans la playliste watch later automatique
 
-## Ionos
+## ionos
 - [ ] jenkins ci/cd (vps + tour)
 - [ ] déploiement des box
 - [ ] prise en main traefik
 - [ ] déploiement rapide (setup.sh)
 
-## Site web
-- [ ] addresse ip self-ngrok (=expose)
+## site web
+- [ ] addresse ip self-ngrok (=expose) et format ip:port dashboard services exposés
 - [ ] page business
 - [ ] manifest.json
 - [ ] test poetry
