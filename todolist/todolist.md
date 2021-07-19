@@ -11,8 +11,8 @@
 
 ## JE
 - [ ] travail sur schtroumpfix avec gaspard
-- [ ] mission theo avec alexis
 - [ ] familarité avec phoenix-api
+- [ ] mission theo avec alexis
 - [ ] [url shortener]()
 
 ## Alternance
@@ -39,8 +39,7 @@
 ## ionos
 - [ ] jenkins ci/cd (vps + tour)
 - [ ] déploiement des box
-- [ ] prise en main traefik
-- [ ] déploiement rapide (setup.sh)
+- [ ] déploiement rapide `setup.sh`
 
 ## site web
 - [ ] addresse ip self-ngrok (=expose) et format ip:port dashboard services exposés
@@ -112,8 +111,8 @@
 - [ ] config calendrier cloud.marcpartensky.com
 
 ## Contrôle
-- [ ] mc serveur tower
-- [ ] docker tower + reverse proxy
+- [ ] mc serveur tour
+- [ ] docker tour + reverse proxy
 
 ## Tutoriels
 
