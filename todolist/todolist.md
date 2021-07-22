@@ -5,14 +5,18 @@
 
 ## Auto entreprise
 - [ ] finir le site wordpress
-- [ ] créer une page de présentation
+- [ ] faire site massage
 - [ ] modifier les images dans le plan de formation
+- [ ] faire carte de visite
+- [ ] créer une page de présentation
 <!-- - [ ] créer un site wordpress de présentation -->
 
 ## JE
 - [ ] travail sur schtroumpfix avec gaspard
 - [ ] familarité avec phoenix-api
 - [ ] mission theo avec alexis
+- [ ] avoir des alias ssh pour tous les conteneurs docker wordpress de la je (30 min)
+- [ ] partager les alias ssh pour les machines de la je dans le réseau privé de la je
 - [ ] [url shortener]()
 
 ## Alternance
@@ -28,6 +32,7 @@
 ## prendre le contrôle
 - [ ] config workspaces yabai et skhd (avancé tutos samy)
 - [ ] vpn sur vps, tour
+- [ ] serveur mail perso
 - [ ] serveurs dns privé (tour, vps) dockerisé si possible
 - [ ] déployer 1 conteneur par distro linux sur la tour
 - [ ] tri des conteneurs à migrer du vps sur la tour
@@ -42,7 +47,7 @@
 - [ ] déploiement rapide `setup.sh`
 
 ## site web
-- [ ] addresse ip self-ngrok (=expose) et format ip:port dashboard services exposés
+- [ ] addresse ip self-ngrok (=expose) et format ip:port dashboard services exposés (20 min)
 - [ ] page business
 - [ ] manifest.json
 - [ ] test poetry
@@ -66,6 +71,7 @@
 	- Vérifier implémentaton existante
 
 ### article app
+- [ ] corriger affichage articles
 - [ ] article iframe page index
 - [ ] choix de thème par utilisateur button
 - [ ] choix de layout d'article par lecteur + layout par défaut pour un compte donné
@@ -86,12 +92,11 @@
 - [ ] générateur de cv
 
 ### Possible
-- [ ] chercher des offres sur monster
 - [ ] carte de visite [affinity designer](/Volumes/$/Application/Affinity\ Designer.app) + [affinity photo](/Volumes/$/Application/Affinity\ Photo.app)
-- [ ] ajouter docker au CV (version 1 page)
-- [ ] version anglaise du CV
+- [ ] chercher des offres sur monster
+- [ ] version 2 pages du cv
+- [ ] version anglaise du cv
 - [ ] bilan de compétences en latex
-- [ ] génération de cv auto
 - [ ] [trello clone](https://github.com/vdevired/trello-clone)
 
 ### En attente
@@ -110,9 +115,10 @@
 - [ ] [yolo api?](https://pjreddie.com/darknet/yolo/)
 - [ ] config calendrier cloud.marcpartensky.com
 
-## Contrôle
+## Tour
 - [ ] mc serveur tour
-- [ ] docker tour + reverse proxy
+- [ ] docker tour + reverse proxy local address
+- [ ] expérimenter reverse shell
 
 ## Tutoriels
 
@@ -161,10 +167,11 @@
 
 ### Bot discord
 - [ ] bot discord gestion de rôle automatique
+- [ ] regestion de l'argent
 - [ ] leaderboard + rename avec €
 - [ ] sondage + ajout de réponse utilisateur dans l'embed et suppression du message
 - [ ] record audio discord.js
-- [ ] jail
+- [ ] jail (10 min)
 - [ ] config en yaml + surcouche pyyaml
 - [ ] préfix dynamique entre serveurs discord
 - [ ] pas de dépendance mongo atlas
