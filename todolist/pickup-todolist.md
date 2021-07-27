@@ -35,6 +35,17 @@
 	- [x] fichier de config en json
 	- [x] rédaction des tests
 
+	- [ ] retirer tous les jobjects
+	- [ ] plus de regex
+	- [ ] préciser chemins dans ligne de commandes (pas dans testdata)
+	- [ ] refaire fill missing keys
+	- [ ] analyser script d'import (test en local?)
+	- [ ] refaire les tests qui échouent
+	- [ ] refaire le script d'export (un seul fichier d'export)
+
+	- [ ] nettoyer mes taches
+	- [ ] corriger mes temps sur flex
+
 - [ ] Indicateur de supervision (Laurent)
 	- [x] entrainement
 	- [x] réalisation des graphes
