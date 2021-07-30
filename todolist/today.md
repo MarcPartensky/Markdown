@@ -1,5 +1,3 @@
-- [ ] envoyer arret maladie
-- [ ] répondre par mail pour expliquer arret maladie
 - [ ] prendre traitement
 - [ ] appelez rh bouygues puis rh stellantis
 - [ ] faire site oxivia pages services + paysages + jardins et espaces verts
