@@ -36,15 +36,14 @@
 	- [x] rédaction des tests
 
 	- [x] retirer tous les jobjects
-	- [ ] plus de regex
-	- [ ] préciser chemins dans ligne de commandes (pas dans testdata)
-	- [ ] refaire fill missing keys
+	- [x] plus de regex
+	- [x] préciser chemins dans ligne de commandes (pas dans testdata)
+	- [x] refaire fill missing keys
+	- [x] corriger mes temps sur flex
 	- [ ] analyser script d'import (test en local?)
 	- [ ] refaire les tests qui échouent
 	- [ ] refaire le script d'export (un seul fichier d'export)
-
 	- [ ] nettoyer mes taches
-	- [ ] corriger mes temps sur flex
 
 - [ ] Indicateur de supervision (Laurent)
 	- [x] entrainement
