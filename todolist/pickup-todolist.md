@@ -35,8 +35,7 @@
 	- [x] fichier de config en json
 	- [x] rédaction des tests
 
-	/Users/marcpartensky/pickup/Colis21/src/Pssa.Colis21.Cli/testdata/translations/traduction.csv- [ ] retirer tous les jobjects
-	urr
+	- [x] retirer tous les jobjects
 	- [ ] plus de regex
 	- [ ] préciser chemins dans ligne de commandes (pas dans testdata)
 	- [ ] refaire fill missing keys
