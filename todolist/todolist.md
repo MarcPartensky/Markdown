@@ -13,9 +13,8 @@
 
 ## JE
 - [ ] travail sur schtroumpfix avec gaspard
-- [ ] familarité avec phoenix-api
+- [ ] faire 1 issue phoenix
 - [ ] avoir des alias ssh pour tous les conteneurs docker wordpress de la je (30 min)
-- [ ] partager les alias ssh pour les machines de la je dans le réseau privé de la je
 - [ ] [url shortener]()
 
 ## Alternance

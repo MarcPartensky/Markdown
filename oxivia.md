@@ -75,8 +75,8 @@
 - [x] Présenter les activités succintement avec des boutons cliquables vers les pages
 
 ### Service à la personne (publié)
-- [ ] Illustrer les activités d'entretien avec zones de texte dynamiques par dessus
-- [ ] Présenter les activités succintement avec des boutons cliquables vers les pages
+- [x] Illustrer les activités d'entretien avec zones de texte dynamiques par dessus
+- [x] Présenter les activités succintement avec des boutons cliquables vers les pages
 
 ### Mentions Légales (publié)
 		- [ ] Afficher les mentions légales de l'entreprise
