@@ -13,16 +13,16 @@
 
 ## JE
 - [ ] travail sur schtroumpfix avec gaspard
-- [ ] faire 1 issue phoenix
 - [ ] avoir des alias ssh pour tous les conteneurs docker wordpress de la je (30 min)
 - [ ] [url shortener]()
+- [ ] faire 1 issue phoenix
 
 ## Alternance
 - [ ] corriger cv payen
 - [ ] faire cv 2 pages pour alternances
 
 ## Banque
-- [ ] fermer compte bnp
+- [ ] fermer compte bnp => récupérer identifiants bnp
 
 ---
 # Bonus
@@ -31,8 +31,7 @@
 - [ ] config workspaces yabai et skhd (avancé tutos samy)
 - [ ] vpn sur vps, tour
 - [ ] serveur mail perso
-- [ ] serveurs dns privé (tour, vps) dockerisé si possible
-- [ ] déployer 1 conteneur par distro linux sur la tour
+- [ ] serveurs dns privé (tour, vps) pihole
 - [ ] tri des conteneurs à migrer du vps sur la tour
 - [ ] connexion sécurisé (vpn + tor + vps)
 - [ ] démon glou [ssh in python](https://gist.github.com/bortzmeyer/1284249), [message queue](https://docs.celeryproject.org/en/stable/getting-started/first-steps-with-celery.html#installing-celery)
@@ -45,7 +44,8 @@
 - [ ] déploiement rapide `setup.sh`
 
 ## site web
-- [ ] addresse ip self-ngrok (=expose) et format ip:port dashboard services exposés (20 min)
+- [ ] commande notify
+- [ ] dashboard services exposés (20 min)
 - [ ] page business
 - [ ] manifest.json
 - [ ] test poetry
