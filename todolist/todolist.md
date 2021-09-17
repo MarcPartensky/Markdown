@@ -3,17 +3,21 @@
 ---
 # Travail
 
+## Principal
+- [ ] envoyer fiche de poste à la rh de bouygues
+- [ ] créer texte de motivation
+- [ ] préparer entretien
+- [ ] trouver un logement
+
 ## Auto entreprise
-- [ ] finir le site wordpress
-- [ ] faire site massage
+- [ ] relancer oxivia
+- [ ] héberger site massage
+- [ ] proposer extension google analytics
 - [ ] modifier les images dans le plan de formation
-- [ ] faire carte de visite
 - [ ] créer une page de présentation
-<!-- - [ ] créer un site wordpress de présentation -->
 
 ## JE
 - [ ] travail sur schtroumpfix avec gaspard
-- [ ] avoir des alias ssh pour tous les conteneurs docker wordpress de la je (30 min)
 - [ ] [url shortener]()
 - [ ] faire 1 issue phoenix
 
@@ -28,6 +32,7 @@
 # Bonus
 
 ## prendre le contrôle
+- [ ] déployer [IPsec VPN Server avec Docker](https://github.com/hwdsl2/docker-ipsec-vpn-server)
 - [ ] config workspaces yabai et skhd (avancé tutos samy)
 - [ ] vpn sur vps, tour
 - [ ] serveur mail perso
