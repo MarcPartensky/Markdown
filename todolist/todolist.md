@@ -5,7 +5,7 @@
 
 ## Principal
 - [ ] envoyer fiche de poste à la rh de bouygues
-- [ ] créer texte de motivation
+- [ ] créer lettre de motivation
 - [ ] préparer entretien
 - [ ] trouver un logement
 
@@ -33,7 +33,6 @@
 
 ## prendre le contrôle
 - [ ] déployer [IPsec VPN Server avec Docker](https://github.com/hwdsl2/docker-ipsec-vpn-server)
-- [ ] config workspaces yabai et skhd (avancé tutos samy)
 - [ ] vpn sur vps, tour
 - [ ] serveur mail perso
 - [ ] serveurs dns privé (tour, vps) pihole
@@ -42,6 +41,7 @@
 - [ ] démon glou [ssh in python](https://gist.github.com/bortzmeyer/1284249), [message queue](https://docs.celeryproject.org/en/stable/getting-started/first-steps-with-celery.html#installing-celery)
 - [ ] chiffrement par mot de passe simple (gnu pass sans clé)
 - [ ] téléchargement de vidéo youtube dans la playliste watch later automatique
+- [ ] config workspaces yabai et skhd (avancé tutos samy)
 
 ## ionos
 - [ ] jenkins ci/cd (vps + tour)
