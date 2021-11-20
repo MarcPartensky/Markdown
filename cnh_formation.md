@@ -106,3 +106,10 @@ KPI : CA en baisse -> Moins de clients - Nouveau concurrent
 - Quand ?
 - Comment ?
 - Pourquoi ?
+
+## Pour résumer
+- La méthode des 5 pourquoi
+- La matrice SWOT
+- The Ecosystem Canva
+- Le diagramme d'Ishikawa
+- La méthode QQOQCP
