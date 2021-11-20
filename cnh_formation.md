@@ -98,3 +98,11 @@ KPI : CA en baisse -> Moins de clients - Nouveau concurrent
 - Repérer les causes sur lesquelles votre JE peut agir
 - Dresser les causes
 - Hiérarchiser les causes
+
+## La méthode QQOQCP
+- Qui ?
+- Quoi ?
+- Où ?
+- Quand ?
+- Comment ?
+- Pourquoi ?
