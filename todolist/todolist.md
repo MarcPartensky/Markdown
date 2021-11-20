@@ -10,14 +10,13 @@
 - [ ] trouver un logement
 
 ## Auto entreprise
-- [ ] relancer oxivia
-- [ ] héberger site massage
+- [ ] relancer oxivia mail
 - [ ] proposer extension google analytics
 - [ ] modifier les images dans le plan de formation
-- [ ] créer une page de présentation
 
 ## JE
-- [ ] travail sur schtroumpfix avec gaspard
+- [ ] pipelines prospectix front + api
+- [ ] script migration bdd prospectix
 - [ ] [url shortener]()
 - [ ] faire 1 issue phoenix
 
