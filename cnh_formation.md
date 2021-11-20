@@ -90,7 +90,7 @@ KPI : CA en baisse -> Moins de clients - Nouveau concurrent
 ## SWOT
 - Strengths
 - Weaknesses
-- Op
+- Opportunities
 - Threats
 
 ## Le diagramme d'Ishikawa
