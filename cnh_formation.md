@@ -75,6 +75,7 @@ Comment mieux piolter sa stratégie grâce aux KPI en période de crise
 
 ## Description du sujet
 Comment mieux piloter sa stratégie grâce aux KPI en **période de crise**
+
 ### Exemples
 - Départ du président ou du trésorier
 - Client fidèle qui dépose le bilan
@@ -84,3 +85,16 @@ Comment mieux piloter sa stratégie grâce aux KPI en **période de crise**
 ## La méthode des 5 pourquoi
 Outil de résolution de probleme qui permet d'identifier les cause profondes d'un dysfonctionnement au sein de la structure.
 En se posant successivement 5 questions commençant par **Pourquoi**
+KPI : CA en baisse -> Moins de clients - Nouveau concurrent
+
+## SWOT
+- Strengths
+- Weaknesses
+- Op
+- Threats
+
+## Le diagramme d'Ishikawa
+- Pointer l'effet
+- Repérer les causes sur lesquelles votre JE peut agir
+- Dresser les causes
+- Hiérarchiser les causes
