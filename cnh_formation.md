@@ -49,3 +49,21 @@ Pour conclure, être chauve est la clé du succès.
 # Kpi
 
 Comment mieux piolter sa stratégie grâce aux KPI en période de crise
+## Performance business - Satisfaction client
+- CA
+- Nobre d'études
+- Délais
+- Taux de transformation
+- Satisfaction client
+- KPI sur la sous / co-traitance
+## Performance financière et opérationnel - Cash
+- Taux marge
+- Rentabilité globale
+- Cash / trésorerie
+- Conformité
+- Délais sur les retours clients (factures, trésorerie)
+## Motivation et engagement des troupes - Satisfaction staff
+- Satisfaction consultant
+- Satisfaction du staff
+- Turnovers VS rétention
+
