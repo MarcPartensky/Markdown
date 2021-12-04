@@ -4,14 +4,14 @@
 # Travail
 
 ## Principal
+- [ ] faire cv
 - [ ] envoyer fiche de poste à la rh de bouygues
 - [ ] créer lettre de motivation
 - [ ] préparer entretien
 - [ ] trouver un logement
 
 ## Auto entreprise
-- [ ] relancer oxivia mail
-- [ ] proposer extension google analytics
+- [ ] proposer extension google analytics masseuse
 - [ ] modifier les images dans le plan de formation
 
 ## JE
