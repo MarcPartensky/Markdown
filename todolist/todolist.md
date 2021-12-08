@@ -15,6 +15,13 @@
 - [ ] modifier les images dans le plan de formation
 
 ## JE
+- [ ] wordpress augustin
+- [ ] backup airflow
+- [ ] place pour les wordpress
+- [ ] bug prospectix
+- [ ] mr phoenix
+- [ ] rfp
+- [ ] prospectix v7
 - [ ] pipelines prospectix front + api
 - [ ] script migration bdd prospectix
 - [ ] [url shortener]()
