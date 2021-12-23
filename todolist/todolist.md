@@ -4,7 +4,7 @@
 # Travail
 
 ## Principal
-- [ ] faire cv
+- [ ] refaire cv
 - [ ] envoyer fiche de poste à la rh de bouygues
 - [ ] créer lettre de motivation
 - [ ] préparer entretien
@@ -16,15 +16,16 @@
 
 ## JE
 - [ ] wordpress augustin
-- [ ] backup airflow
+- [ ] backup airflow intelligent + ci/cd airflow
+- [ ] stockage wordpress
 - [ ] place pour les wordpress
-- [ ] bug prospectix
+- [ ] bug prospectix v5
+- [ ] migration prospectix v6
 - [ ] mr phoenix
-- [ ] rfp
-- [ ] prospectix v7
-- [ ] pipelines prospectix front + api
+- [ ] rfp modifier notion
+- [ ] pipelines prospectix v7 et v6 front + api
 - [ ] script migration bdd prospectix
-- [ ] [url shortener]()
+- [ ] [url shortener]() pole com
 - [ ] faire 1 issue phoenix
 
 ## Alternance
