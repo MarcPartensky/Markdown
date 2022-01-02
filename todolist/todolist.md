@@ -4,9 +4,7 @@
 # Travail
 
 ## Principal
-- [ ] refaire cv
-- [ ] envoyer fiche de poste à la rh de bouygues
-- [ ] créer lettre de motivation
+- [ ] recréer lettre de motivation
 - [ ] préparer entretien
 - [ ] trouver un logement
 
