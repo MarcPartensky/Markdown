@@ -14,10 +14,13 @@
 - [ ] proposer extension google analytics masseuse
 - [ ] modifier les images dans le plan de formation
 
+## Formation
+- [ ] Appeler : date de sortie de formation le 9/01 pas le 02/01 ni le 08/01
+
 ## JE
 - [ ] wordpress augustin
 - [ ] backup airflow intelligent + ci/cd airflow
-- [ ] stockage wordpress
+- [ ] fixer api docker consultants
 - [ ] place pour les wordpress
 - [ ] bug prospectix v5
 - [ ] migration prospectix v6
@@ -25,8 +28,9 @@
 - [ ] rfp modifier notion
 - [ ] pipelines prospectix v7 et v6 front + api
 - [ ] script migration bdd prospectix
-- [ ] [url shortener]() pole com
+- [ ] url shortener pole com
 - [ ] faire 1 issue phoenix
+- [ ] configurer fail2ban et sshd jail
 
 ## Alternance
 - [ ] corriger cv payen
