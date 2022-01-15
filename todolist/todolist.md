@@ -13,17 +13,16 @@
 - [ ] modifier les images dans le plan de formation
 
 ## JE
+- [ ] sprint aws
 - [ ] wordpress augustin
 - [ ] backup airflow intelligent + ci/cd airflow
 - [ ] fixer api docker consultants
-- [x] place pour les wordpress
 - [ ] bug prospectix v5
 - [ ] migration prospectix v6
 - [ ] mr phoenix
 - [ ] rfp modifier notion
 - [ ] pipelines prospectix v7 et v6 front + api
 - [ ] script migration bdd prospectix
-- [ ] url shortener pole com
 - [ ] faire 1 issue phoenix
 - [ ] configurer fail2ban et sshd jail
 
