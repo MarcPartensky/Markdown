@@ -15,6 +15,7 @@
 ## JE
 - [ ] sprint aws
 - [ ] wordpress augustin
+- [ ] wp-secure ramirez
 - [ ] backup airflow intelligent + ci/cd airflow
 - [ ] fixer api docker consultants
 - [ ] bug prospectix v5
