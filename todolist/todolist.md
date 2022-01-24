@@ -28,6 +28,7 @@
 - [ ] configurer fail2ban et sshd jail
 
 ## Alternance
+- [ ] rapport janvier
 - [ ] corriger cv payen
 - [ ] faire cv 2 pages pour alternances
 
@@ -38,6 +39,7 @@
 # Bonus
 
 ## prendre le contrôle
+- [ ] github profile readme
 - [ ] déployer [IPsec VPN Server avec Docker](https://github.com/hwdsl2/docker-ipsec-vpn-server)
 - [ ] vpn sur vps, tour
 - [ ] serveur mail perso
