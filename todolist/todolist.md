@@ -13,10 +13,11 @@
 - [ ] modifier les images dans le plan de formation
 
 ## JE
+- [ ] comprendre panne phoenix
 - [ ] sprint aws
 - [ ] wordpress augustin
 - [ ] wp-secure ramirez
-- [ ] backup airflow intelligent + ci/cd airflow
+- [ ] ci/cd airflow
 - [ ] fixer api docker consultants
 - [ ] bug prospectix v5
 - [ ] migration prospectix v6
