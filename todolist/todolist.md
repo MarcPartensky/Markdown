@@ -70,7 +70,7 @@
 
 ### todo app
 - [ ] vuejs todolist + synchronisation calendrier
-- [ ] fusion calendrier et todolist
+- [ ] fusion calendrier et todolist [ics python](https://www.tutorialsbuddy.com/create-ics-calendar-file-in-python)
 - [ ] notion de dépendance
 
 ### code app
