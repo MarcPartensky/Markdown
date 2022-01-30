@@ -13,23 +13,23 @@ Période 1 (durée pertinente à déﬁnir par l’apprenti selon la mission)
 ### Travail sur le Kraken
 
 #### Objectifs et missions poursuivies
-- Comprendre le fonctionnement de la tentacule.
+- Comprendre le fonctionnement du tentacule.
 - Comprendre l'API de Colis21
 - Comprendre le fonctionnement du moteur
-- Corriger l'activité de la tentacule
+- Corriger l'activité du tentacule
 
 #### Action concrètes (1 à 3 actions par objectif, 5 à 6 lignes par action)
 - Reproduction du bug sur l'environnement test-v sur lequel travaille les testeurs puis en local en configurant mon environnement de façon adéquate.
 - Action 2
 - Action 3
 
-#### Difficultés rencontrees et solutions trouvées (environ 1 page)
+#### Difficultés rencontrées et solutions trouvées (environ 1 page)
 - Compréhension d'un système très large et complexe pas toujours très bien documenté
 -> Longues périodes d'analyse du code source et du block note contenant des informations sur la partie fonctionnelle et technique du projet
 - Erreur dans la comparaison de signatures sous format svg à 1 pixel près
--> Solicitation du Tech Lead pour m'orienter dans la recherche de la cause du problème
+-> Sollicitation du Tech Lead pour m'orienter dans la recherche de la cause du problème
 - Compatibilité des branches git de développement avec les versions de la base de données dans mongodb
--> Mise en place d'un script facilitant la mise à jour des bases de données en local grâces à des functions bash
+-> Mise en place d'un script facilitant la mise à jour des bases de données en local grâces à des fonctions bash
 
 #### Compétences acquises (hard et soft skills) (environ 1 page)
 - Montée en compétences sur RabbitMQ et sur MongoDB
@@ -49,14 +49,14 @@ Période 1 (durée pertinente à déﬁnir par l’apprenti selon la mission)
 - 
 - Action 3
 
-#### Difficultés rencontrees et solutions trouvées (environ 1 page)
+#### Difficultés rencontrées et solutions trouvées (environ 1 page)
 - Compréhension d'un système très large et complexe pas toujours très bien documenté.
 
 #### Compétences acquises (hard et soft skills) (environ 1 page)
 - Montée en compétences sur React
 
 ## Glossaire
-- Terminal : Application de bureau permettant d'utiliser les programmes d'une machines en tapant une commande sous forme textuelle
+- Terminal : Application de bureau permettant d'utiliser les programmes d'une machine en tapant une commande sous forme textuelle
 - Bash : Langage permettant d'exécuter des commandes pour exécuter des programmes
 - React: Framework front-end permettant de rendre des applications web plus dynamiques
 - Framework: Ensemble de règles et de librairies qui définissent l'organisation d'un code source pour un type d'application prédéfinit.
