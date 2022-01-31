@@ -49,14 +49,15 @@ Longues périodes d'analyse du code source et du block note contenant des inform
 #### Compatiblité de versions
 
 ##### Difficulté
-Compatibilité des branches git de développement avec les versions de la base de données dans mongodb
+Pour bien configurer mon environnement de développement en local afin de corriger le bug, je dois passer par plusieurs étapes. Tout d'abord je dois aller sur le site Azure Devops qui regroupe notre code source et nos tâches à effectuer selon la méthodologie agile. Dessus je dois trouver le bug à résoudre et lui ajouter une nouvelle tâche de réalisation que je dois créer. Il faut ensuite que je crée une nouvelle branche git partant d'une branche git stable du projet qui est d'habiture master. Il faut ensuite lier cette branche à ma tâche de réalisation et récupérer ma branche en local. Une fois cela fait ce n'est pas encore suffisant pour pouvoir lancer le projet en local. En effet le Kraken est un projet qui dépend de middlewares pour fonctionner. Ces middlewares sont RabbitMQ, MongoDB et Logstash. Pour cela il faut les lancer également et grâce à une technologie de conteneurisation appelé Docker cela est rendu possible facilement depuis un fichier texte. Cependant la base de données que j'avais en local n'était pas compatible avec la branche git utilisée. Il m'a donc fallu faire une importation de la base de données depuis l'environnement de test pour m'en servir. Cela est possible grâce à une commande assez longue difficile à retenir.
 
 ##### Solution
-Mise en place d'un script facilitant la mise à jour des bases de données en local grâces à des fonctions bash
+Comme je devais régulièrement taper la commande permettant l'importation de base de données à des versions différentes selon les branches git utilisées, j'ai réalisé un script Bash permettant de charger des alias permettant de faire cela automatiquemement avec des commandes faciles à retenir.
 
 #### Échec de comparaison
 
 ##### Difficulté
+Le bug que je devais résoudre était sur un tentacule du kraken. En réalite le Kraken n'est pas un seul programme mais un ensemble de programmes utilisant le framework .Net en C#. Ces programmes sont appelés des tentacules et sont controlées par un programme appelé le Brain. Celui-ci est responsable de démarrer, interagir et stopper les tentacules du kraken. Chaque tentacule est fournie avec une liste d'activités. Ces activités correspondent à une simulation des étapes de la vie d'un colis et les tentacules sont en quelque sorte des catégories d'activités. Il est ensuite possible pour un testeur de combiner ces activités en définissant ce que l'on appelle un cas de test afin de représenter un scénario de la vie d'un colis et de s'assurer que le système d'information se comporte comme il devrait. Le cas de test peut ensuite être exécuté pour lancer la simulation du scénario de la vie du colis.
 Erreur dans la comparaison de signatures sous format svg à 1 pixel près
 
 ##### Solution
@@ -99,8 +100,12 @@ Déploiement de l'outil
 - Montée en compétences sur React
 
 # Glossaire
+- Git: Logiciel de gestion de version d'un code source. Git permet de tracer l'évolution d'un code source grâce à un historique qui comprend une liste de commits.
+- Commit: Un commit est une modification incrémentale du code source que le développeur peut nommer et appliquer à l'historique.
+- Branche: Version divergente d'un code source qui comprend une nouvelle historique de commit dont les premiers sont en communs. Un projet git comprend habituellement une branche principale stable appelée "master" et chaque nouvelle fonctionnalité est développée sur une nouvelle branche git basée sur master afin d'être fusionner plus tard.
+- Pull Request: Demande de fusion d'une branche git vers une autre (habituellement vers master). Une Pull Request a pour but d'être examiné par les développeurs expérimentés de de l'équipe habituellement le Responsable Technique et les Techs Lead. Si celle-ci est validée par ces membres alors les nouveaux commits ajoutés sur cette branche sont appliqués aussi sur master. On appelle cela la fusion. Remarque la fusion dans un sens et dans l'autre peuvent ne pas produire le même résultat.
 - Système d'information: Un système d'information est un ensemble de services utilisant des technologies adaptées pour interagir entre eux afin de collecter, traiter et stocker des données.
-- Environnement (Informatique): Un environnement est une machine permettant de déployer une copie du système d'information afin de le développer et tester ses services.
+- Environnement (Informatique): Un environnement est un contexte sur une machine qui permet de déployer une copie du système d'information afin de le développer et tester ses services.
 - Terminal : Application de bureau permettant d'utiliser les programmes d'une machine en tapant une commande sous forme textuelle
 - Bash : Langage permettant d'exécuter des commandes pour exécuter des programmes
 - React: Framework front-end permettant de rendre des applications web plus dynamiques
