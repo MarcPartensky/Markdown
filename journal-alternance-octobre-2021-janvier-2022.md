@@ -13,11 +13,14 @@ lang: fr
 ## Colis 21
 Colis 21 est un système d'information. Il s'agit d'un ensemble de programmes qui communiquent entre eux pour assurer une représentation informatique des réels colis en circulation afin de les tracer, les suivre et d'effectuer des actions en cas d'anomalies détectés.
 
+# Le moteur
+Le moteur est le composant principal de Colis 21. Il s'agit du seul programme qui a le droit d'interagir avec la base de données directement. Tous les autres programmes doivent interagir avec lui pour pouvoir avoir des informations sur les colis. Ainsi le moteur peut traiter les évènements qu'il reçoit des autres services et prendre des décisions en fonction pour les rejeter ou les valider et collecter les nouvelles informations. Il est possible de communiquer avec le moteur en envoyant des messages dans un logiciel d'agent de message appelé RabbitMQ. Comme tous les services n'implémentent pas ce système de communication, un web service appelé ModuleWebHost permet de communiquer plus simplement via le protcole http. Le web service se charge de transformer les requêtes http en message RabbitMQ après une validation supplémentaire des données.
+
 ## Le kraken
-Le kraken est un programme qui sert à tester Colis 21 en simulant des colis dans le système d'information 
+Le kraken est une interface web qui permet de tester Colis 21 en simulant des colis dans le système d'information. En réalite il s'agit d'un ensemble de programmes utilisant le framework .Net en C#. Ces programmes sont appelés des tentacules et sont contrôlées par un programme appelé le Brain. Celui-ci est responsable de démarrer, interagir et stopper les tentacules du kraken. Chaque tentacule est fournie avec une liste d'activités. Ces activités correspondent à une simulation des étapes de la vie d'un colis et les tentacules sont en quelque sorte des catégories d'activités. Il est ensuite possible pour un testeur de combiner ces activités en définissant ce que l'on appelle un cas de test afin de représenter un scénario de la vie d'un colis et de s'assurer que le système d'information se comporte comme il devrait. Le cas de test peut ensuite être exécuté pour lancer la simulation du scénario de la vie du colis.
 
 ## Parcel Tracker 5
-Parcel Tracker 5 est la 5e version de l'outil Parcel Tracker. Parcel Tracker est une interface web qui permet de suivre l'évolution des colis. Celle-ci est faite en React et se base sur une web service en .Net.
+Parcel Tracker 5 est la 5e version de l'outil Parcel Tracker. Parcel Tracker est une interface web qui permet de suivre l'évolution des colis. Celle-ci est faite avec le framework React et se base sur le web service ModuleWebHost.
 
 # Périodes
 
@@ -57,7 +60,7 @@ Comme je devais régulièrement taper la commande permettant l'importation de ba
 #### Échec de comparaison
 
 ##### Difficulté
-Le bug que je devais résoudre était sur un tentacule du kraken. En réalite le Kraken n'est pas un seul programme mais un ensemble de programmes utilisant le framework .Net en C#. Ces programmes sont appelés des tentacules et sont controlées par un programme appelé le Brain. Celui-ci est responsable de démarrer, interagir et stopper les tentacules du kraken. Chaque tentacule est fournie avec une liste d'activités. Ces activités correspondent à une simulation des étapes de la vie d'un colis et les tentacules sont en quelque sorte des catégories d'activités. Il est ensuite possible pour un testeur de combiner ces activités en définissant ce que l'on appelle un cas de test afin de représenter un scénario de la vie d'un colis et de s'assurer que le système d'information se comporte comme il devrait. Le cas de test peut ensuite être exécuté pour lancer la simulation du scénario de la vie du colis.
+Le bug que je devais traité concernait une instance de cas de test du kraken qui avait fini en échec pour une raison inexpliquée. Pour résumer ce cas de test avait pour but de simuler la création d'un colis en envoyant une requête http spécifique que l'on appelle évènement directement au web service de colis21. Le web service reçoit la requête, vérifie sa validité et la converti en direction du moteur
 Erreur dans la comparaison de signatures sous format svg à 1 pixel près
 
 ##### Solution
@@ -104,6 +107,7 @@ Déploiement de l'outil
 - Commit: Un commit est une modification incrémentale du code source que le développeur peut nommer et appliquer à l'historique.
 - Branche: Version divergente d'un code source qui comprend une nouvelle historique de commit dont les premiers sont en communs. Un projet git comprend habituellement une branche principale stable appelée "master" et chaque nouvelle fonctionnalité est développée sur une nouvelle branche git basée sur master afin d'être fusionner plus tard.
 - Pull Request: Demande de fusion d'une branche git vers une autre (habituellement vers master). Une Pull Request a pour but d'être examiné par les développeurs expérimentés de de l'équipe habituellement le Responsable Technique et les Techs Lead. Si celle-ci est validée par ces membres alors les nouveaux commits ajoutés sur cette branche sont appliqués aussi sur master. On appelle cela la fusion. Remarque la fusion dans un sens et dans l'autre peuvent ne pas produire le même résultat.
+- Web Service: Un web service est un serveur http avec lequel un client http peut communiquer via un standard de communication (ou interface) défini au préalable appelé API soit Application Programming Interface.
 - Système d'information: Un système d'information est un ensemble de services utilisant des technologies adaptées pour interagir entre eux afin de collecter, traiter et stocker des données.
 - Environnement (Informatique): Un environnement est un contexte sur une machine qui permet de déployer une copie du système d'information afin de le développer et tester ses services.
 - Terminal : Application de bureau permettant d'utiliser les programmes d'une machine en tapant une commande sous forme textuelle
