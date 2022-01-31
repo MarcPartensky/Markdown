@@ -1,10 +1,9 @@
 ---
-subtitle: <%= @report.name %>
+title: Journal d'activité
+subtitle: octobre 2021 janvier 2022
 toc-title: <%= t('.toc_title') %>
 lang: fr
 ---
-
-# Journal d'activité octobre 2021 janvier 2022
 
 # Projets
 - Correction du tentacule Picklog de l'outil de test appelé le Kraken
@@ -30,7 +29,7 @@ Parcel Tracker 5 est la 5e version de l'outil Parcel Tracker. Parcel Tracker est
 - Comprendre le fonctionnement du moteur
 - Corriger l'activité du tentacule
 
-### Action concrètes (1 à 3 actions par objectif, 5 à 6 lignes par action)
+### Actions concrètes (1 à 3 actions par objectif, 5 à 6 lignes par action)
 - Reproduction du bug sur l'environnement test-v sur lequel travaille les testeurs puis en local en configurant mon environnement de façon adéquate. Avant même de me lancer dans la correction du bug j'essaie tout d'abord reproduire le bug dans l'environnement de test appelé test-v sur lequel le bug a tout d'abord été détecté. Pour cela j'ai besoin de me connecter en vpn au réseau de l'entreprise afin d'avoir accès aux différents environnements sur lesquels sont le kraken est déployé.
 
 - Une fois le bug reproduit sur l'environnement de test j'essaie de le reproduire en local en configurant mon environnement local avec une nouvelle branche git basée sur la même branche utilisée pour l'environnement test-v et je mets à jour ma base de données mongodb par rapport à la base de données utilisée sur test-v.
@@ -42,7 +41,7 @@ Parcel Tracker 5 est la 5e version de l'outil Parcel Tracker. Parcel Tracker est
 #### Analyse
 
 ##### Difficulté
-Afin de pouvoir me lancer dans la correction du bug j'avais tout d'abord besoin de bien comprendre le fonctionnement de l'application en elle même. Comme plusieurs services faisant partie du système d'information partagent le même code source en commun, celui-ci est très fourni et il peut être assez difficile d'investiguer quels sont les zones pertinentes dans la résolution du problème. Pour cela j'ai effectué des recherches dans le block note en ligne que partage l'équipe sur One Note pour rechercher des informations concernant le projet sous un aspect technique mais aussi fonctionnel.
+Afin de pouvoir me lancer dans la correction du bug j'avais tout d'abord besoin de bien comprendre le fonctionnement de l'application en elle-même. Comme plusieurs services faisant partie du système d'information partagent le même code source en commun, celui-ci est très fourni et il peut être assez difficile d'investiguer quels sont les zones pertinentes dans la résolution du problème. Pour cela j'ai effectué des recherches dans le block note en ligne que partage l'équipe sur One Note pour rechercher des informations concernant le projet sous un aspect technique mais aussi fonctionnel.
 
 ##### Solution
 Longues périodes d'analyse du code source et du block note contenant des informations sur la partie fonctionnelle et technique du projet
@@ -65,7 +64,11 @@ Sollicitation du Tech Lead pour m'orienter dans la recherche de la cause du prob
 
 ### Compétences acquises (hard et soft skills) (environ 1 page)
 
-- Montée en compétences sur RabbitMQ et sur MongoDB
+#### Hard skills
+Montée en compétences sur RabbitMQ et sur MongoDB
+
+#### Soft skills
+En passant par ces différentes étapes j'ai pu me rendre compte 
 
 ## Travail sur Parcel Tracker 5
 
@@ -80,9 +83,14 @@ Sollicitation du Tech Lead pour m'orienter dans la recherche de la cause du prob
 -> Recherche des occurrences des noms de composants en utilisant grep
 
 ### Action concrètes (1 à 3 actions par objectif, 5 à 6 lignes par action)
-- Déploiement de l'outil Parcel Tracker en local pour reproduire le bug en question
-- 
-- Action 3
+
+#### Action 1
+Déploiement de l'outil Parcel Tracker en local pour reproduire le bug en question
+
+#### Action 2
+Déploiement de l'outil 
+
+#### Action 3 
 
 ### Difficultés rencontrées et solutions trouvées (environ 1 page)
 - Compréhension d'un système très large et complexe pas toujours très bien documenté.
