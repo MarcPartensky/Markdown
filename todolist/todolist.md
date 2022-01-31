@@ -56,6 +56,7 @@
 - [ ] jenkins ci/cd (vps + tour)
 - [ ] déploiement des box
 - [ ] déploiement rapide `setup.sh`
+- [ ] migration nvim sur lua
 
 ## site web
 - [ ] commande notify
