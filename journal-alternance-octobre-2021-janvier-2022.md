@@ -7,7 +7,6 @@ lang: fr
 # Journal d'activité octobre 2021 janvier 2022
 
 # Projets
-
 - Correction du tentacule Picklog de l'outil de test appelé le Kraken
 - Correction de l'activité VerifyCheckSignature du tentacule C21Whitebox du kraken
 - Correction de bugs graphiques sur l'interface web Parcel Tracker 5 qui permet de suivre les colis dans le système d'information
@@ -39,21 +38,28 @@ Parcel Tracker 5 est la 5e version de l'outil Parcel Tracker. Parcel Tracker est
 - Il me faut ensuite analyser quelles sont les tentacules nécessaires à lancer pour pouvoir lancer mon cas de tests sans avoir. L'idéal est de lancer uniquement les tentacules nécessaires au cas de test choisi et pas les autres car cela aurait pour effet de ralentir mon poste en local.
 
 ### Difficultés rencontrées et solutions trouvées (environ 1 page)
+
 #### Analyse
+
 ##### Difficulté
 Afin de pouvoir me lancer dans la correction du bug j'avais tout d'abord besoin de bien comprendre le fonctionnement de l'application en elle même. Comme plusieurs services faisant partie du système d'information partagent le même code source en commun, celui-ci est très fourni et il peut être assez difficile d'investiguer quels sont les zones pertinentes dans la résolution du problème. Pour cela j'ai effectué des recherches dans le block note en ligne que partage l'équipe sur One Note pour rechercher des informations concernant le projet sous un aspect technique mais aussi fonctionnel.
+
 ##### Solution
 Longues périodes d'analyse du code source et du block note contenant des informations sur la partie fonctionnelle et technique du projet
 
 #### Compatiblité de versions
+
 ##### Difficulté
 Compatibilité des branches git de développement avec les versions de la base de données dans mongodb
+
 ##### Solution
 Mise en place d'un script facilitant la mise à jour des bases de données en local grâces à des fonctions bash
 
 #### Échec de comparaison
+
 ##### Difficulté
 Erreur dans la comparaison de signatures sous format svg à 1 pixel près
+
 ##### Solution
 Sollicitation du Tech Lead pour m'orienter dans la recherche de la cause du problème
 
