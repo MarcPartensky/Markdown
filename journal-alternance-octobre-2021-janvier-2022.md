@@ -41,14 +41,6 @@ Parcel Tracker 5 est la 5e version de l'outil Parcel Tracker. Parcel Tracker est
 
 ### Difficultés rencontrées et solutions trouvées (environ 1 page)
 
-#### Analyse
-
-##### Difficulté
-Afin de pouvoir me lancer dans la correction du bug j'avais tout d'abord besoin de bien comprendre le fonctionnement de l'application en elle-même. Comme plusieurs services faisant partie du système d'information partagent le même code source en commun, celui-ci est très fourni et il peut être assez difficile d'investiguer quels sont les zones pertinentes dans la résolution du problème. Pour cela j'ai effectué des recherches dans le block note en ligne que partage l'équipe sur One Note pour rechercher des informations concernant le projet sous un aspect technique mais aussi fonctionnel.
-
-##### Solution
-Longues périodes d'analyse du code source et du block note contenant des informations sur la partie fonctionnelle et technique du projet
-
 #### Compatiblité de versions
 
 ##### Difficulté
@@ -60,19 +52,19 @@ Comme je devais régulièrement taper la commande permettant l'importation de ba
 #### Échec de comparaison
 
 ##### Difficulté
-Le bug que je devais traité concernait une instance de cas de test du kraken qui avait fini en échec pour une raison inexpliquée. Pour résumer ce cas de test avait pour but de simuler la création d'un colis en envoyant une requête http spécifique que l'on appelle évènement directement au web service de colis21. Le web service reçoit la requête, vérifie sa validité et la converti en direction du moteur
-Erreur dans la comparaison de signatures sous format svg à 1 pixel près
+Le bug que je devais traité concernait une instance de cas de test du kraken qui avait fini en échec pour une raison inexpliquée. Pour résumer ce cas de test avait pour but de simuler la création d'un colis en envoyant une requête http spécifique que l'on appelle évènement directement au web service de colis21. Le web service reçoit la requête, vérifie sa validité et la converti en direction du moteur en message RabbitMQ. Le moteur traite ensuite le message et le stocke dans sa base de données sous forme de nouveau colis. L'activité suivante du cas de tests appelé VerifyCheckSignature avait pour but de vérifier que la signature associé au colis dans MongoDB correspondait bien à la signature fournir sur l'interface web comme entrée de l'activitée. Cependant ces signatures étant des images je me suis rendu compte d'un bug subtile. En effet cette comparaison échouait car les images comparées était différentes à 1 seul pixel près.
 
 ##### Solution
-Sollicitation du Tech Lead pour m'orienter dans la recherche de la cause du problème
+Afin de régler ce problème j'ai sollicité l'aide d'un des Tech Leads de l'équipe pour mieux m'orienter dans la recherche de la cause du problème. En investiguant celui-ci s'est rendu que cette erreur était uniquement du à une mauvaise utilisation d'une entrée d'une des activités du cas de tes qui était mal renseigné et cela à cause d'une erreur dans la documentation des information d'entrées. Il a égalemement fallu que je définisse le format par défaut des signatures en SVG à la place du format PNG qui était utilisé auparavant.
 
 ### Compétences acquises (hard et soft skills) (environ 1 page)
 
 #### Hard skills
-Montée en compétences sur RabbitMQ et sur MongoDB
+J'ai pu découvrir le fonctionnement du logiciel d'agent de message RabbitMQ. J'ai pu assisté à une présentation sur l'outil qui explicait les différents avantages d'utiliser ce type de middleware. J'ai pu découvrir comment les applications peuvent créer des messages destinées à des Exchanges qui peuvent être de plusieurs types en fonction de si l'on souhaite mutiplexer les messages selon des règles prédéfinies dans des queues à destinations d'autres services consommateurs.
+J'ai également pu apprendre la syntaxe des requêtes pour interagir avec le serveur de base de données MongoDB. 
 
 #### Soft skills
-En passant par ces différentes étapes j'ai pu me rendre compte 
+En passant par ces différentes étapes j'ai pu me rendre compte des différentes étapes qui permettent le déploiement et l'implémentation de nouvelles fonctionnalités dans un sytème d'information. Mais également quelles relations entretenir avec les membres de l'équipe afin d'obtenir des renseignement ou soliciter de l'aide. Cela m'a permis de renforcer la précision la description des problèmes que je rencontrait afin de permettre une résolution plus rapide et efficace.
 
 ## Travail sur Parcel Tracker 5
 
@@ -88,19 +80,26 @@ En passant par ces différentes étapes j'ai pu me rendre compte
 
 ### Action concrètes (1 à 3 actions par objectif, 5 à 6 lignes par action)
 
-#### Action 1
-Déploiement de l'outil Parcel Tracker en local pour reproduire le bug en question
-
-#### Action 2
-Déploiement de l'outil 
-
-#### Action 3 
+* Déploiement de l'outil Parcel Tracker en local pour reproduire le bug en question. Pour cela je crée une branche sur Azure Devops lié à la tâche de réalisation en question. Je récupère la branche sur mon poste en local puis je mets à jour ma base de données en local en utilisant mon script de mise à jour de base de données. Il faut ensuite lancer le middleware dont la base de données MongoDB en plus du web service et de ParcelTracker.
+* J'ai du trouver les composants à modifier en installant l'extension React Dev Tools et en inspectant les éléments graphiques à corriger en les retrouvant dans la hiérarchie des composants React. Il a ensuite fallu que je fasse un inventaire des composants React que j'ai à ma disposition afin de mieux reprendre le composant qui comporte le bug. Une fois le bon composant choisir il a fallu que je retrouve la définition des composants parents afin de changer les composants enfants à utiliser et cela en fonction de la page à afficher.
 
 ### Difficultés rencontrées et solutions trouvées (environ 1 page)
-- Compréhension d'un système très large et complexe pas toujours très bien documenté.
+
+#### Analyse
+
+##### Difficulté
+Afin de pouvoir me lancer dans la correction du bug j'avais tout d'abord besoin de bien comprendre le fonctionnement de l'application en elle-même. Comme plusieurs services faisant partie du système d'information partagent le même code source en commun, celui-ci est très fourni et il peut être assez difficile d'investiguer quels sont les zones pertinentes dans la résolution du problème. Pour cela j'ai effectué des recherches dans le block note en ligne que partage l'équipe sur One Note pour rechercher des informations concernant le projet sous un aspect technique mais aussi fonctionnel.
+
+##### Solution
+Longues périodes d'analyse du code source et du block note contenant des informations sur la partie fonctionnelle et technique du projet
 
 ### Compétences acquises (hard et soft skills) (environ 1 page)
-- Montée en compétences sur React
+
+#### Hard skills
+- Montée en compétences sur React. J'ai pu apprendre de quelle façon les composants React sont imbriqués les uns dans les autres pour former l'affichage graphique des applications web moderne dynamique d'aujourd'hui. J'ai pu mieux comprendre comment fournir les propriétés qui permettent l'instanciation des composants et la façon dont ceux-ci sont disposés les uns dans les autres pour former des composants parents réutilisables dans plusieurs pages.
+
+#### Soft skills
+Après avoir reçu de nombreux commentaires sur mes Pull Request je réalise mieux la façon dont travaille le service informatique des entreprises. Grâce aux différentes réunions tous les matins appelés les Daily Meeting j'ai souvent l'occasion de voir sur quels éléments travaillent les membres de mon équipe. Avec les différent sprint Scrum nous avons à chaque fin de sprint une réunion de rétrospective de sprint dans lesquels les Product Owner nous informent des tâches qui sont prioritaires à livrer par rapport à d'autres et les assignent pour le sprint suivant lors du Sprint planning.
 
 # Glossaire
 - Git: Logiciel de gestion de version d'un code source. Git permet de tracer l'évolution d'un code source grâce à un historique qui comprend une liste de commits.

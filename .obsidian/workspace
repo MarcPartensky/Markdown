@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "1abece9941636ecd",
+    "type": "split",
+    "children": [
+      {
+        "id": "93c5867324111375",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "journal-alternance-octobre-2021-janvier-2022.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5347828a86511d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "17be474449bc9f57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5052f1b926897a84",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "848fd6c46870dddd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c2d6e2f8561219a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d3690d05e9df8fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b68324b57573606e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "journal-alternance-octobre-2021-janvier-2022.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "93c5867324111375",
+  "lastOpenFiles": [
+    "journal-alternance-octobre-2021-janvier-2022.md"
+  ]
+}
