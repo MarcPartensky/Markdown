@@ -9,4 +9,3 @@
 
 * Chef d'orchest des données; il crée de la valeur en aidant l'organisation pour laquelle il travaille. a atteindre ses objectifs stratégiques tout en veillant à la conformité des actions et des processeus avec la réglementation
 * Transformatoin digitale des entreprises et synergies accrues entre le DPO et collaboration étroite ..
-k
