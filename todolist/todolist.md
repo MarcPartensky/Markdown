@@ -13,23 +13,19 @@
 - [ ] modifier les images dans le plan de formation
 
 ## JE
-- [ ] comprendre panne phoenix
 - [ ] sprint aws
 - [ ] wordpress augustin
 - [ ] wp-secure ramirez
 - [ ] ci/cd airflow
 - [ ] fixer api docker consultants
-- [ ] bug prospectix v5
 - [ ] migration prospectix v6
 - [ ] mr phoenix
 - [ ] rfp modifier notion
 - [ ] pipelines prospectix v7 et v6 front + api
 - [ ] script migration bdd prospectix
 - [ ] faire 1 issue phoenix
-- [ ] configurer fail2ban et sshd jail
 
 ## Alternance
-- [ ] rapport janvier
 - [ ] corriger cv payen
 - [ ] faire cv 2 pages pour alternances
 
@@ -40,6 +36,8 @@
 # Bonus
 
 ## prendre le contrôle
+- [ ] retrouver les identifiants du router
+- [ ] retrouver la clé gpg du mac
 - [ ] github profile readme
 - [ ] déployer [IPsec VPN Server avec Docker](https://github.com/hwdsl2/docker-ipsec-vpn-server)
 - [ ] vpn sur vps, tour
@@ -51,10 +49,11 @@
 - [ ] chiffrement par mot de passe simple (gnu pass sans clé)
 - [ ] téléchargement de vidéo youtube dans la playliste watch later automatique
 - [ ] config workspaces yabai et skhd (avancé tutos samy)
+- [ ] configurer fail2ban et sshd jail
 
 ## ionos
+- [ ] nouveau compte
 - [ ] jenkins ci/cd (vps + tour)
-- [ ] déploiement des box
 - [ ] déploiement rapide `setup.sh`
 - [ ] migration nvim sur lua
 
