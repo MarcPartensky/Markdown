@@ -64,6 +64,7 @@
 - [ ] manifest.json
 - [ ] test poetry
 - [ ] protobuf
+- [ ] tips (tip cli + tip django application)
 
 ### url shortener
 - [ ] utilisation de bearer token
