@@ -7,6 +7,7 @@
 - [ ] recréer lettre de motivation
 - [ ] préparer entretien
 - [ ] trouver un logement
+- [ ] bateau
 
 ## Auto entreprise
 - [ ] proposer extension google analytics masseuse
@@ -14,15 +15,13 @@
 
 ## JE
 - [ ] sprint aws
-- [ ] wordpress augustin
+- [ ] wordpress émilie
 - [ ] wp-secure ramirez
-- [ ] ci/cd airflow
+- [ ] ci/cd airflow caddy
 - [ ] fixer api docker consultants
 - [ ] migration prospectix v6
 - [ ] mr phoenix
-- [ ] rfp modifier notion
 - [ ] pipelines prospectix v7 et v6 front + api
-- [ ] script migration bdd prospectix
 - [ ] faire 1 issue phoenix
 
 ## Alternance
@@ -45,7 +44,7 @@
 - [ ] serveurs dns privé (tour, vps) pihole
 - [ ] tri des conteneurs à migrer du vps sur la tour
 - [ ] connexion sécurisé (vpn + tor + vps)
-- [ ] démon glou [ssh in python](https://gist.github.com/bortzmeyer/1284249), [message queue](https://docs.celeryproject.org/en/stable/getting-started/first-steps-with-celery.html#installing-celery)
+- [ ] démon glou, [message queue](https://docs.celeryproject.org/en/stable/getting-started/first-steps-with-celery.html#installing-celery)
 - [ ] chiffrement par mot de passe simple (gnu pass sans clé)
 - [ ] téléchargement de vidéo youtube dans la playliste watch later automatique
 - [ ] config workspaces yabai et skhd (avancé tutos samy)
