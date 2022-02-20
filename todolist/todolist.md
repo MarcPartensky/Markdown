@@ -206,18 +206,12 @@
 
 ## Commun
 
-### Samy
-- [ ] soom
-
 ### Valentin
 - [ ] serv privé dofus
 - [ ] cluedo sur discord
 
 ### Lovinsky
 - [ ] qrcode
-
-### Étienne
-- [ ] blackjack
 
 ### Save
 - [ ] pygame
