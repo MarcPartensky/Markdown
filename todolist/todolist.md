@@ -46,12 +46,10 @@
 - [ ] connexion sécurisé (vpn + tor + vps)
 - [ ] démon glou, [message queue](https://docs.celeryproject.org/en/stable/getting-started/first-steps-with-celery.html#installing-celery)
 - [ ] chiffrement par mot de passe simple (gnu pass sans clé)
-- [ ] téléchargement de vidéo youtube dans la playliste watch later automatique
 - [ ] config workspaces yabai et skhd (avancé tutos samy)
-- [ ] configurer fail2ban et sshd jail
+- [ ] sshd jail
 
 ## ionos
-- [ ] nouveau compte
 - [ ] jenkins ci/cd (vps + tour)
 - [ ] déploiement rapide `setup.sh`
 - [ ] migration nvim sur lua
