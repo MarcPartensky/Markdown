@@ -35,7 +35,6 @@
 # Bonus
 
 ## prendre le contrôle
-- [ ] retrouver les identifiants du router
 - [ ] retrouver la clé gpg du mac
 - [ ] github profile readme
 - [ ] déployer [IPsec VPN Server avec Docker](https://github.com/hwdsl2/docker-ipsec-vpn-server)
