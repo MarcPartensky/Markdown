@@ -54,7 +54,6 @@
 - [ ] migration nvim sur lua
 
 ## site web
-- [ ] commande notify
 - [ ] dashboard services exposés (20 min)
 - [ ] page business
 - [ ] manifest.json
