@@ -19,7 +19,6 @@
 - [ ] wp-secure ramirez
 - [ ] ci/cd airflow caddy
 - [ ] fixer api docker consultants
-- [ ] migration prospectix v6
 - [ ] mr phoenix
 - [ ] pipelines prospectix v7 et v6 front + api
 - [ ] faire 1 issue phoenix
