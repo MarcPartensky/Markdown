@@ -1,4 +1,4 @@
-#!/usr/bin/env markdown
+#/usr/bin/env markdown
 
 ---
 # Travail
@@ -8,6 +8,9 @@
 - [ ] préparer entretien
 - [ ] trouver un logement
 - [ ] bateau
+- [ ] appeler 2e masseuse
+- [ ] bnp appeler pour retrouver identifiants
+- [ ] appeler pour passer permis voiture
 
 ## Auto entreprise
 - [ ] proposer extension google analytics masseuse
@@ -34,6 +37,7 @@
 # Bonus
 
 ## prendre le contrôle
+- [ ] migrer volumes
 - [ ] retrouver la clé gpg du mac
 - [ ] github profile readme
 - [ ] déployer [IPsec VPN Server avec Docker](https://github.com/hwdsl2/docker-ipsec-vpn-server)
