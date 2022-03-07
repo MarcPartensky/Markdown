@@ -171,7 +171,7 @@
 ### Environnement de dev
 
 #### Neovim
-- [ ] configuration des snippets
+- [ ] configuration lua
 
 #### Dotfiles
 - [ ] correction de la branche principale (autocomplete plugin)
