@@ -6,11 +6,12 @@
 ## Principal
 - [ ] recréer lettre de motivation
 - [ ] préparer entretien
-- [ ] trouver un logement
 - [ ] bateau
 - [ ] appeler 2e masseuse
 - [ ] bnp appeler pour retrouver identifiants
 - [ ] appeler pour passer permis voiture
+- [ ] postuler alternance bnp, société générale
+- [ ] trouver un logement
 
 ## Auto entreprise
 - [ ] proposer extension google analytics masseuse
@@ -18,7 +19,7 @@
 
 ## JE
 - [ ] sprint aws
-- [ ] wordpress émilie
+- [ ] teahouse
 - [ ] wp-secure ramirez
 - [ ] ci/cd airflow caddy
 - [ ] fixer api docker consultants
