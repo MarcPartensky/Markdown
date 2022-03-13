@@ -2,12 +2,12 @@
 
 - [x] pas de réseaux sociaux
 - [x] retirer mentions légales
-- [ ] récupérer description boutique
+- [x] récupérer description boutique
 - [x] récupérer description repassage
 - [x] récupérer description ménage
 - [x] read more => en savoir plus
 - [x] espace avant !
-- [ ] our working process
+- [x] our working process
 - [x] retirer our recent projects
 - [x] retirer our latest blogs
 - [x] retirer bouton 'Sélectionner' section tarifs
@@ -23,18 +23,18 @@
 - [x] Jardin et espace vert - Accéder à une page particulière - Menu déroulant
 - [x] Entretien de la maison - Bouton spécifique
 - [x] Entretien de la maison - Accéder à une page particulière - Menu déroulant
-- [ ] Logo du client (logo compressé)
+- [x] Logo du client (logo compressé)
 
 ### Footer (ok)
 - [x] Bouton page Mention Légales
 - [x] Accéder au plan du site via bouton
 - [x] Bouton accéder aux réseaux sociaux
 - [x] Afficher les coordonnées de la boutique
-- [ ] Afficher les informations suivantes
+- [x] Afficher les informations suivantes
 	- [x] num
 	- [x] mail
 	- [x] adresse
-		- [ ] horaires
+    - [x] horaires
 
 ### Page d'accueil (publié)
 - [x] Carousel photos
@@ -79,7 +79,7 @@
 - [x] Présenter les activités succintement avec des boutons cliquables vers les pages
 
 ### Mentions Légales (publié)
-		- [ ] Afficher les mentions légales de l'entreprise
+- [ ] Afficher les mentions légales de l'entreprise
 
 ### Plan du site (comment)
 La page « Plan du site » sera accessible depuis le footer. Cette dernière commencera par un titre. En dessous, sous la forme d’une liste à puces de liens de redirection, sera présenté le plan du site. La hiérarchie de la liste à puces correspondra à l’arborescence du site Internet.
