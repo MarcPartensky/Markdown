@@ -20,8 +20,8 @@
 - [ ] "pourquoi nous?" -> "nous consulter" à supprimer
 - [ ] changer numéro de téléphone sous format français
 - [ ] numéro de téléphone
-- [ ] style de nos intervenants <- style du dessus
-- [ ] tarif comme accueil par mail
+- [x] style de nos intervenants <- style du dessus
+- [x] tarif comme accueil **par mail ?**
 - [ ] page contact  ?
 - [ ] supprimer cadc llave
 - [ ] mail oxivia
