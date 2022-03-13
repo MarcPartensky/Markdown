@@ -87,7 +87,7 @@ La page « Plan du site » sera accessible depuis le footer. Cette dernière com
 - [ ] aligner le texte et l'image
 - [ ] supprimer "voir services"
 - [ ] "pourquoi nous?" -> "nous consulter" à supprimer
-- [ ] changer numéro de téléphone sous format français
+- [x] changer numéro de téléphone sous format français
 - [x] numéro de téléphone
 - [x] style de nos intervenants <- style du dessus
 - [x] tarif comme accueil **par mail ?**
