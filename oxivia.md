@@ -14,17 +14,6 @@
 - [x] déplacer texte de tout frais compris dans tarifs ménage
 - [x] corriger header wtf = sans nos activités et offre entreprise
 - [x] retirer le "home >> contact" = plus de bannière
-- [x] pages en majuscules
-- [ ] aligner le texte et l'image
-- [ ] supprimer "voir services"
-- [ ] "pourquoi nous?" -> "nous consulter" à supprimer
-- [ ] changer numéro de téléphone sous format français
-- [ ] numéro de téléphone
-- [x] style de nos intervenants <- style du dessus
-- [x] tarif comme accueil **par mail ?**
-- [ ] page contact  ?
-- [ ] supprimer cadc llave
-- [ ] mail oxivia
 
 ## Semaine 2
 ### Header (ok)
@@ -92,3 +81,18 @@
 
 ### Plan du site (comment)
 La page « Plan du site » sera accessible depuis le footer. Cette dernière commencera par un titre. En dessous, sous la forme d’une liste à puces de liens de redirection, sera présenté le plan du site. La hiérarchie de la liste à puces correspondra à l’arborescence du site Internet.
+
+## Itération mars
+- [x] pages en majuscules
+- [ ] aligner le texte et l'image
+- [ ] supprimer "voir services"
+- [ ] "pourquoi nous?" -> "nous consulter" à supprimer
+- [ ] changer numéro de téléphone sous format français
+- [ ] numéro de téléphone
+- [x] style de nos intervenants <- style du dessus
+- [x] tarif comme accueil **par mail ?**
+- [ ] mentions légales que dans footer
+- [ ] pas de bordure pour les cartes
+- [ ] page contact  ?
+- [ ] supprimer cadc llave
+- [ ] mail oxivia
