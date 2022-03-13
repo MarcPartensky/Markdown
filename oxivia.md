@@ -45,14 +45,14 @@
 
 ## Semaine 3
 ### Contact (publié)
-- [ ] Afficher les coordonnées de l'entreprise avez texte et maps:
+- [x] Afficher les coordonnées de l'entreprise avez texte et maps:
 	- [x] nom
 	- [x] mail
 	- [x] tel
 	- [x] sujet
 	- [x] message
-    - [ ] captcha (avoir le vrai domaine)
-- [ ] Contacter oxivia avec formulaire et bouton envoyer
+    - [x] captcha (avoir le vrai domaine)
+- [x] Contacter oxivia avec formulaire et bouton envoyer
 
 ## Semaine 4
 ### Entretien de la maison
