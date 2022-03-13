@@ -91,8 +91,9 @@ La page « Plan du site » sera accessible depuis le footer. Cette dernière com
 - [ ] numéro de téléphone
 - [x] style de nos intervenants <- style du dessus
 - [x] tarif comme accueil **par mail ?**
-- [ ] mentions légales que dans footer
-- [ ] pas de bordure pour les cartes
+- [x] mentions légales que dans footer
+- [x] pas de bordure pour les cartes
 - [ ] page contact  ?
 - [ ] supprimer cadc llave
 - [ ] mail oxivia
+- [x] retirer sections nos intervenants dans pages d'accueil car dans entretien maison
