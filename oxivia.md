@@ -51,13 +51,12 @@
 	- [x] tel
 	- [x] sujet
 	- [x] message
-		- [ ] captcha (avoir le vrai domaine)
-		- [ ] horaires d'ouvertures
+    - [ ] captcha (avoir le vrai domaine)
 - [ ] Contacter oxivia avec formulaire et bouton envoyer
 
 ## Semaine 4
 ### Entretien de la maison
-- [ ] Présenter les services et ses modalités avec
+- [x] Présenter les services et ses modalités avec
 - [x] zone de texte
 - [x] images
 
