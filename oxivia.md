@@ -14,7 +14,17 @@
 - [x] déplacer texte de tout frais compris dans tarifs ménage
 - [x] corriger header wtf = sans nos activités et offre entreprise
 - [x] retirer le "home >> contact" = plus de bannière
-
+- [ ] pages en majuscules
+- [ ] aligner le texte et l'image
+- [ ] supprimer "voir services"
+- [ ] "pourquoi nous?" -> "nous consulter" à supprimer
+- [ ] changer numéro de téléphone sous format français
+- [ ] numéro de téléphone
+- [ ] style de nos intervenants <- style du dessus
+- [ ] tarif comme accueil par mail
+- [ ] page contact  ?
+- [ ] supprimer cadc llave
+- [ ] mail oxivia
 
 ## Semaine 2
 ### Header (ok)
