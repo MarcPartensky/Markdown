@@ -85,7 +85,7 @@ La page « Plan du site » sera accessible depuis le footer. Cette dernière com
 ## Itération mars
 - [x] pages en majuscules
 - [ ] aligner le texte et l'image
-- [ ] supprimer "voir services"
+- [x] supprimer button "voir les services"
 - [ ] "pourquoi nous?" -> "nous consulter" à supprimer
 - [x] changer numéro de téléphone sous format français
 - [x] numéro de téléphone
