@@ -84,16 +84,15 @@ La page « Plan du site » sera accessible depuis le footer. Cette dernière com
 
 ## Itération mars
 - [x] pages en majuscules
-- [ ] aligner le texte et l'image
+- [ ] aligner le texte et l'image **quel texte ?**
 - [x] supprimer button "voir les services"
-- [ ] "pourquoi nous?" -> "nous consulter" à supprimer
+- [ ] **"pourquoi nous?" -> "nous consulter" à supprimer ?**
 - [x] changer numéro de téléphone sous format français
 - [x] numéro de téléphone
 - [x] style de nos intervenants <- style du dessus
 - [x] tarif comme accueil **par mail ?**
 - [x] mentions légales que dans footer
 - [x] pas de bordure pour les cartes
-- [ ] page contact  ?
-- [ ] supprimer cadc llave
-- [ ] mail oxivia
+- [ ] supprimer cadc llave ** hein ??**
+- [ ] mail oxivia **de quoi on parle ?**
 - [x] retirer sections nos intervenants dans pages d'accueil car dans entretien maison
