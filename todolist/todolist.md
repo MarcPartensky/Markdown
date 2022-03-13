@@ -19,7 +19,6 @@
 
 ## JE
 - [ ] sprint aws
-- [ ] teahouse
 - [ ] wp-secure ramirez
 - [ ] ci/cd airflow caddy
 - [ ] fixer api docker consultants
