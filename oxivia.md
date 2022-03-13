@@ -14,7 +14,7 @@
 - [x] déplacer texte de tout frais compris dans tarifs ménage
 - [x] corriger header wtf = sans nos activités et offre entreprise
 - [x] retirer le "home >> contact" = plus de bannière
-- [ ] pages en majuscules
+- [x] pages en majuscules
 - [ ] aligner le texte et l'image
 - [ ] supprimer "voir services"
 - [ ] "pourquoi nous?" -> "nous consulter" à supprimer
