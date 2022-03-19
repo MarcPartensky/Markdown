@@ -5,8 +5,6 @@
 
 ## Principal
 - [ ] recréer lettre de motivation
-- [ ] préparer entretien
-- [ ] bateau
 - [ ] appeler 2e masseuse
 - [ ] bnp appeler pour retrouver identifiants
 - [ ] appeler pour passer permis voiture
@@ -20,7 +18,7 @@
 ## JE
 - [ ] sprint aws
 - [ ] wp-secure ramirez
-- [ ] ci/cd airflow caddy
+- [ ] ci/cd airflow
 - [ ] fixer api docker consultants
 - [ ] mr phoenix
 - [ ] pipelines prospectix v7 et v6 front + api
