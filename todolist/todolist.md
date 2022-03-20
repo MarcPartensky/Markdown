@@ -34,20 +34,21 @@
 ---
 # Bonus
 
-## prendre le contrôle
+## vps
 - [ ] migrer volumes
+- [ ] server mail perso
 - [ ] retrouver la clé gpg du mac
 - [ ] github profile readme
 - [ ] déployer [IPsec VPN Server avec Docker](https://github.com/hwdsl2/docker-ipsec-vpn-server)
 - [ ] vpn sur vps, tour
-- [ ] serveur mail perso
 - [ ] serveurs dns privé (tour, vps) pihole
 - [ ] tri des conteneurs à migrer du vps sur la tour
 - [ ] connexion sécurisé (vpn + tor + vps)
 - [ ] démon glou, [message queue](https://docs.celeryproject.org/en/stable/getting-started/first-steps-with-celery.html#installing-celery)
 - [ ] chiffrement par mot de passe simple (gnu pass sans clé)
-- [ ] config workspaces yabai et skhd (avancé tutos samy)
 - [ ] sshd jail
+- [ ] config workspaces yabai et skhd (avancé tutos samy)
+- [ ] sslh
 
 ## ionos
 - [ ] jenkins ci/cd (vps + tour)
