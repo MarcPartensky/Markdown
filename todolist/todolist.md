@@ -16,6 +16,7 @@
 - [ ] modifier les images dans le plan de formation
 
 ## JE
+- [ ] pegasus
 - [ ] sprint aws
 - [ ] wp-secure ramirez
 - [ ] ci/cd airflow
@@ -36,10 +37,11 @@
 
 ## vps
 - [ ] migrer volumes
-- [ ] server mail perso
+- [ ] server mail perso sans sous domaine
 - [ ] retrouver la clé gpg du mac
 - [ ] github profile readme
 - [ ] déployer [IPsec VPN Server avec Docker](https://github.com/hwdsl2/docker-ipsec-vpn-server)
+- [ ] docker swarm rootless
 - [ ] vpn sur vps, tour
 - [ ] serveurs dns privé (tour, vps) pihole
 - [ ] tri des conteneurs à migrer du vps sur la tour
@@ -47,13 +49,14 @@
 - [ ] démon glou, [message queue](https://docs.celeryproject.org/en/stable/getting-started/first-steps-with-celery.html#installing-celery)
 - [ ] chiffrement par mot de passe simple (gnu pass sans clé)
 - [ ] sshd jail
-- [ ] config workspaces yabai et skhd (avancé tutos samy)
 - [ ] sslh
-
-## ionos
+- [ ] gitlab ci
 - [ ] jenkins ci/cd (vps + tour)
 - [ ] déploiement rapide `setup.sh`
 - [ ] migration nvim sur lua
+
+## ionos
+- [ ] sauver les volumes
 
 ## site web
 - [ ] dashboard services exposés (20 min)
