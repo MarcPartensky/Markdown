@@ -5,20 +5,20 @@
 
 ## Principal
 - [ ] recréer lettre de motivation
-- [ ] appeler 2e masseuse
-- [ ] bnp appeler pour retrouver identifiants
+- [ ] s'inscrire pour qualiopi avec maman
+- [ ] trouver date londre
+- [ ] trouver date lille avec paul
+- [ ] check destinations interail avec hugues
 - [ ] appeler pour passer permis voiture
+- [ ] lettre de motivation bnp
 - [ ] postuler alternance bnp, société générale
-- [ ] trouver un logement
 
 ## Auto entreprise
-- [ ] proposer extension google analytics masseuse
 - [ ] modifier les images dans le plan de formation
+- [ ] rediger support formation
 
 ## JE
-- [ ] pegasus
 - [ ] sprint aws
-- [ ] wp-secure ramirez
 - [ ] ci/cd airflow
 - [ ] fixer api docker consultants
 - [ ] mr phoenix
@@ -29,10 +29,6 @@
 - [ ] corriger cv payen
 - [ ] faire cv 2 pages pour alternances
 
-## Banque
-- [ ] fermer compte bnp => récupérer identifiants bnp
-
----
 # Bonus
 
 ## vps
