@@ -32,8 +32,10 @@
 # Bonus
 
 ## vps
-- [ ] migrer volumes
-- [ ] server mail perso sans sous domaine
+- [ ] sso authentik
+- [ ] caddy auth token
+- [ ] systeme de migration de volumes
+- [ ] serveur mail perso sur tour
 - [ ] retrouver la clé gpg du mac
 - [ ] github profile readme
 - [ ] déployer [IPsec VPN Server avec Docker](https://github.com/hwdsl2/docker-ipsec-vpn-server)
@@ -50,9 +52,6 @@
 - [ ] jenkins ci/cd (vps + tour)
 - [ ] déploiement rapide `setup.sh`
 - [ ] migration nvim sur lua
-
-## ionos
-- [ ] sauver les volumes
 
 ## site web
 - [ ] dashboard services exposés (20 min)
