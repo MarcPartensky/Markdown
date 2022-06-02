@@ -4,22 +4,19 @@
 # Travail
 
 ## Principal
-- [  ] bpf
 - [ ] recréer lettre de motivation
 - [ ] s'inscrire pour qualiopi avec maman
 - [ ] trouver date londre
 - [ ] trouver date lille avec paul
 - [ ] check destinations interail avec hugues
 - [ ] appeler pour passer permis voiture
-- [ ] lettre de motivation bnp
-- [ ] postuler alternance bnp, société générale
+- [ ] postuler société générale
 
 ## Auto entreprise
 - [ ] modifier les images dans le plan de formation
 - [ ] rediger support formation
 
 ## JE
-- [ ] sprint aws
 - [ ] ci/cd airflow
 - [ ] fixer api docker consultants
 - [ ] mr phoenix
