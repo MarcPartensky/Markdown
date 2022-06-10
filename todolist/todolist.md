@@ -4,13 +4,14 @@
 # Travail
 
 ## Principal
-- [ ] recréer lettre de motivation
-- [ ] s'inscrire pour qualiopi avec maman
+- [ ] appeler villegas <- après réponse bnp
+<!-- - [ ] recréer lettre de motivation -->
+- [ ] trouver organisme de formation pour s'inscrire pour qualiopi
 - [ ] trouver date londre
 - [ ] trouver date lille avec paul
-- [ ] check destinations interail avec hugues
-- [ ] appeler pour passer permis voiture
-- [ ] postuler société générale
+<!-- - [ ] check destinations interail avec hugues -->
+- [x] appeler pour passer permis voiture
+<!-- - [ ] postuler société générale -->
 
 ## Auto entreprise
 - [ ] modifier les images dans le plan de formation
@@ -37,7 +38,7 @@
 - [ ] retrouver la clé gpg du mac
 - [ ] github profile readme
 - [ ] déployer [IPsec VPN Server avec Docker](https://github.com/hwdsl2/docker-ipsec-vpn-server)
-- [ ] docker swarm rootless
+- [ ] docker swarm rootless nestybox
 - [ ] vpn sur vps, tour
 - [ ] serveurs dns privé (tour, vps) pihole
 - [ ] tri des conteneurs à migrer du vps sur la tour
@@ -48,7 +49,6 @@
 - [ ] sslh
 - [ ] gitlab ci
 - [ ] jenkins ci/cd (vps + tour)
-- [ ] déploiement rapide `setup.sh`
 - [ ] migration nvim sur lua
 
 ## site web
@@ -99,7 +99,6 @@
 
 ### Possible
 - [ ] carte de visite [affinity designer](/Volumes/$/Application/Affinity\ Designer.app) + [affinity photo](/Volumes/$/Application/Affinity\ Photo.app)
-- [ ] chercher des offres sur monster
 - [ ] version 2 pages du cv
 - [ ] version anglaise du cv
 - [ ] bilan de compétences en latex
