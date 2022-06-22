@@ -4,14 +4,10 @@
 # Travail
 
 ## Principal
-- [ ] appeler villegas <- après réponse bnp
 <!-- - [ ] recréer lettre de motivation -->
 - [ ] trouver organisme de formation pour s'inscrire pour qualiopi
-- [ ] trouver date londre
 - [ ] trouver date lille avec paul
-<!-- - [ ] check destinations interail avec hugues -->
 - [x] appeler pour passer permis voiture
-<!-- - [ ] postuler société générale -->
 
 ## Auto entreprise
 - [ ] modifier les images dans le plan de formation
