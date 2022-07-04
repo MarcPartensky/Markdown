@@ -6,8 +6,8 @@
 ## Principal
 <!-- - [ ] recréer lettre de motivation -->
 - [ ] trouver organisme de formation pour s'inscrire pour qualiopi
-- [ ] trouver date lille avec paul
 - [ ] appeler pour passer permis voiture
+- [  ] gnosis
 
 ## Auto entreprise
 - [ ] modifier les images dans le plan de formation
