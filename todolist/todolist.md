@@ -21,6 +21,10 @@
 
 # Bonus
 
+## ordi
+- [ ] tester awesomewm, xmonad, hypr, hyprland, sway
+- [ ] corriger config bspwm
+
 ## vps
 - [ ] sso authentik
 - [ ] caddy auth token
@@ -119,7 +123,7 @@
 
 ### Prioritaire
 - [ ] symfony
-- [ ] makefile
+- [ ] [makefile](https://www.gnu.org/software/make/manual/make.html)
 - [ ] react native
 - [ ] vue native
 - [ ] pytorch
