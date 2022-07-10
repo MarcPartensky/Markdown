@@ -22,6 +22,7 @@
 ## vps
 - [ ] sso authentik
 - [ ] caddy auth token
+- [ ] docker rootless vps
 - [ ] systeme de migration de volumes
 - [ ] serveur mail perso sur tour
 - [ ] retrouver la clé gpg du mac
@@ -187,15 +188,3 @@
 - [ ] Certified Cloud Security Professional (CCSP)
 - [ ] Computer Hacking Forensic Investigator (CHFI)
 - [ ] Cisco Certified Network Associate (CCNA) Security
-
-## Commun
-
-### Valentin
-- [ ] serv privé dofus
-- [ ] cluedo sur discord
-
-### Lovinsky
-- [ ] qrcode
-
-### Save
-- [ ] pygame
