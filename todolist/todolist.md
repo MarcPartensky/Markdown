@@ -4,10 +4,12 @@
 # Travail
 
 ## Principal
-<!-- - [ ] recréer lettre de motivation -->
+- [ ] trouver logement
 - [ ] trouver organisme de formation pour s'inscrire pour qualiopi
 - [ ] appeler pour passer permis voiture
 - [ ] gnosis
+- [ ] acheter 1 monero
+<!-- - [ ] recréer lettre de motivation -->
 
 ## Auto entreprise
 - [ ] modifier les images dans le plan de formation
@@ -111,9 +113,7 @@
 - [ ] config calendrier cloud.marcpartensky.com
 
 ## Tour
-- [ ] mc serveur tour
-- [ ] docker tour + reverse proxy local address
-- [ ] expérimenter reverse shell
+- [ ] tour reverse proxy local address
 
 ## Tutoriels
 
