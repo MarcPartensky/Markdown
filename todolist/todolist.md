@@ -7,18 +7,11 @@
 <!-- - [ ] recréer lettre de motivation -->
 - [ ] trouver organisme de formation pour s'inscrire pour qualiopi
 - [ ] appeler pour passer permis voiture
-- [  ] gnosis
+- [ ] gnosis
 
 ## Auto entreprise
 - [ ] modifier les images dans le plan de formation
 - [ ] rediger support formation
-
-## JE
-- [ ] ci/cd airflow
-- [ ] fixer api docker consultants
-- [ ] mr phoenix
-- [ ] pipelines prospectix v7 et v6 front + api
-- [ ] faire 1 issue phoenix
 
 ## Alternance
 - [ ] corriger cv payen
