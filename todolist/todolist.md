@@ -122,7 +122,6 @@
 ## Tutoriels
 
 ### Prioritaire
-- [ ] symfony
 - [ ] [makefile](https://www.gnu.org/software/make/manual/make.html)
 - [ ] react native
 - [ ] vue native
