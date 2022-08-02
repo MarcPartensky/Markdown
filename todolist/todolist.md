@@ -4,6 +4,7 @@
 # Travail
 
 ## Principal
+- [ ] remboursement navigo
 - [ ] trouver logement
 - [ ] trouver organisme de formation pour s'inscrire pour qualiopi
 - [ ] appeler pour passer permis voiture
