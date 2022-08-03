@@ -23,8 +23,9 @@
 # Bonus
 
 ## ordi
-- [ ] tester awesomewm, xmonad, hypr, hyprland, sway
+- [ ] tester awesomewm, xmonad, hypr, sway
 - [ ] corriger config bspwm
+- [ ] eww : https://github.com/elkowar/eww https://github.com/adi1090x/widgets
 
 ## vps
 - [ ] sso authentik
