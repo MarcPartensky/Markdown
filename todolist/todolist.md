@@ -33,6 +33,7 @@
 - [ ] sshpiper
 - [ ] sso authentik
 - [ ] caddy auth token
+- [ ] waylandvnc
 - [ ] docker swarm rootless nestybox
 - [ ] systeme de migration de volumes
 - [ ] serveur mail perso sur tour
