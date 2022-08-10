@@ -4,10 +4,11 @@
 # Travail
 
 ## Principal
-- [ ] remboursement navigo
 - [ ] trouver logement
+- [ ] remboursement navigo attendre acces plateforme en ligne entreprise
+- [ ] demande allocation chomage
 - [ ] trouver organisme de formation pour s'inscrire pour qualiopi
-- [ ] appeler pour passer permis voiture
+- [ ] appeler pour passer permis voiture attendre logement
 - [ ] gnosis
 - [ ] acheter 1 monero
 <!-- - [ ] recréer lettre de motivation -->
@@ -18,25 +19,25 @@
 
 ## Alternance
 - [ ] corriger cv payen
-- [ ] faire cv 2 pages pour alternances
 
 # Bonus
 
 ## ordi
-- [ ] tester awesomewm, xmonad, hypr, sway
-- [ ] corriger config bspwm
+- [ ] configurer neovim 0.7 lua
+- [ ] configurer awesomewm bspwm
+- [ ] tester xmonad, hypr, sway
 - [ ] eww : https://github.com/elkowar/eww https://github.com/adi1090x/widgets
 
 ## vps
+- [ ] sshpiper
 - [ ] sso authentik
 - [ ] caddy auth token
-- [ ] docker rootless vps
+- [ ] docker swarm rootless nestybox
 - [ ] systeme de migration de volumes
 - [ ] serveur mail perso sur tour
 - [ ] retrouver la clé gpg du mac
 - [ ] github profile readme
 - [ ] déployer [IPsec VPN Server avec Docker](https://github.com/hwdsl2/docker-ipsec-vpn-server)
-- [ ] docker swarm rootless nestybox
 - [ ] vpn sur vps, tour
 - [ ] serveurs dns privé (tour, vps) pihole
 - [ ] tri des conteneurs à migrer du vps sur la tour
@@ -44,10 +45,8 @@
 - [ ] démon glou, [message queue](https://docs.celeryproject.org/en/stable/getting-started/first-steps-with-celery.html#installing-celery)
 - [ ] chiffrement par mot de passe simple (gnu pass sans clé)
 - [ ] sshd jail
-- [ ] sslh
 - [ ] gitlab ci
 - [ ] jenkins ci/cd (vps + tour)
-- [ ] migration nvim sur lua
 
 ## site web
 - [ ] dashboard services exposés (20 min)
