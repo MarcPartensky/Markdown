@@ -6,7 +6,7 @@
 ## Principal
 - [ ] trouver logement
 - [ ] remboursement navigo attendre acces plateforme en ligne entreprise
-- [ ] demande allocation chomage
+- [ ] demande allocation chomage attendre inscription pole emploi
 - [ ] trouver organisme de formation pour s'inscrire pour qualiopi
 - [ ] appeler pour passer permis voiture attendre logement
 - [ ] gnosis
@@ -34,6 +34,7 @@
 - [ ] sso authentik
 - [ ] caddy auth token
 - [ ] waylandvnc
+- [ ] fix arch docker tags
 - [ ] docker swarm rootless nestybox
 - [ ] systeme de migration de volumes
 - [ ] serveur mail perso sur tour
