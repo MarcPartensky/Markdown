@@ -27,6 +27,7 @@
 - [ ] configurer awesomewm bspwm
 - [ ] tester xmonad, hypr, sway
 - [ ] eww : https://github.com/elkowar/eww https://github.com/adi1090x/widgets
+- [ ] self made distro
 
 ## vps
 - [ ] sshpiper
@@ -47,6 +48,7 @@
 - [ ] sshd jail
 - [ ] gitlab ci
 - [ ] jenkins ci/cd (vps + tour)
+- [ ] configurer metamask
 
 ## site web
 - [ ] dashboard services exposés (20 min)
