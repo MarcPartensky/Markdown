@@ -6,13 +6,13 @@
 ## Principal
 - [ ] remboursement navigo attendre acces plateforme en ligne entreprise
 - [ ] demande allocation chomage attendre inscription pole emploi
-- [ ] trouver organisme de formation pour s'inscrire pour qualiopi
 - [ ] appeler pour passer permis voiture attendre logement
 - [ ] gnosis
 - [ ] acheter 1 monero
 <!-- - [ ] recréer lettre de motivation -->
 
 ## Auto entreprise
+- [ ] trouver organisme de formation pour s'inscrire pour qualiopi
 - [ ] modifier les images dans le plan de formation
 - [ ] rediger support formation
 
