@@ -4,7 +4,6 @@
 # Travail
 
 ## Principal
-- [ ] trouver logement
 - [ ] remboursement navigo attendre acces plateforme en ligne entreprise
 - [ ] demande allocation chomage attendre inscription pole emploi
 - [ ] trouver organisme de formation pour s'inscrire pour qualiopi
