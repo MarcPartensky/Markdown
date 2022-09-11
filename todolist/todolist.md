@@ -4,9 +4,9 @@
 # Travail
 
 ## Principal
-- [ ] remboursement navigo attendre acces plateforme en ligne entreprise
-- [ ] demande allocation chomage attendre inscription pole emploi
-- [ ] appeler pour passer permis voiture attendre logement
+- [ ] remboursement navigo voir mona
+- [ ] chomage attendre 15 septembre
+- [ ] appeler pour passer permis voiture
 - [ ] gnosis
 - [ ] acheter 1 monero
 <!-- - [ ] recréer lettre de motivation -->
