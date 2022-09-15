@@ -5,8 +5,10 @@
 
 ## Principal
 - [ ] remboursement navigo voir mona
-- [ ] chomage attendre 15 septembre
-- [ ] appeler pour passer permis voiture
+- [ ] chomage attendre bulletin de salaire
+- [ ] trouver autoecole appeler pour passer permis voiture
+- [ ] trouver salle de sport
+- [ ] trouver organisme de formation
 - [ ] gnosis
 - [ ] acheter 1 monero
 <!-- - [ ] recréer lettre de motivation -->
@@ -37,7 +39,6 @@
 - [ ] docker swarm rootless nestybox
 - [ ] systeme de migration de volumes
 - [ ] serveur mail perso sur tour
-- [ ] retrouver la clé gpg du mac
 - [ ] github profile readme
 - [ ] déployer [IPsec VPN Server avec Docker](https://github.com/hwdsl2/docker-ipsec-vpn-server)
 - [ ] vpn sur vps, tour
