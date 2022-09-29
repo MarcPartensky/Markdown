@@ -4,6 +4,7 @@
 # Travail
 
 ## Principal
+- [ ] appeler caf pour apl
 - [ ] remboursement navigo voir mona
 - [ ] chomage attendre bulletin de salaire
 - [ ] trouver autoecole appeler pour passer permis voiture
@@ -11,6 +12,7 @@
 - [ ] trouver organisme de formation
 - [ ] gnosis
 - [ ] acheter 1 monero
+- [ ] commander rice cooker
 <!-- - [ ] recréer lettre de motivation -->
 
 ## Auto entreprise
@@ -24,6 +26,7 @@
 # Bonus
 
 ## ordi
+- [ ] stylet tablette
 - [ ] configurer neovim 0.7 lua
 - [ ] configurer awesomewm bspwm
 - [ ] tester xmonad, hypr, sway
@@ -31,6 +34,7 @@
 - [ ] self made distro
 
 ## vps
+- [ ] duplicati faire fonctionner backups itératifs
 - [ ] sshpiper
 - [ ] sso authentik
 - [ ] caddy auth token
@@ -96,6 +100,7 @@
 - [ ] page préférence (chartre graphique?)
 
 ## Promotion
+- [ ] cv avec tableau
 - [ ] générateur de cv
 
 ### Possible
@@ -158,6 +163,15 @@
 - [ ] manifeste agile
 - [ ] 87/483 c# .NET
 - [ ] 300/800 préparation certification linux
+
+## Hors ligne
+- [ ] apprendre des jeux de cartes
+- [ ] lire pocket
+
+## Potentiellement hors ligne
+- [ ] Netflix & Prime vidéo
+- [ ] xmonad
+- [ ] gentoo
 
 ### Environnement de dev
 
