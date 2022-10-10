@@ -26,7 +26,7 @@
 # Bonus
 
 ## ordi
-- [ ] stylet tablette
+- [ ] tester stylet tablette
 - [ ] configurer neovim 0.7 lua
 - [ ] configurer awesomewm bspwm
 - [ ] tester xmonad, hypr, sway
