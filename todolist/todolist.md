@@ -6,7 +6,7 @@
 ## Principal
 - [ ] appeler caf pour apl
 - [ ] remboursement navigo voir mona
-- [ ] chomage attendre bulletin de salaire
+- [ ] appeler pole emploi pour réclamation are
 - [ ] trouver autoecole appeler pour passer permis voiture
 - [ ] trouver salle de sport
 - [ ] trouver organisme de formation
