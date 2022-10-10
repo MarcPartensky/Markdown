@@ -5,8 +5,9 @@
 
 ## Principal
 - [ ] appeler caf pour apl
-- [ ] remboursement navigo voir mona
 - [ ] appeler pole emploi pour réclamation are
+- [ ] appeler agence pour les plaques et fuites
+- [ ] remboursement navigo voir mona
 - [ ] trouver autoecole appeler pour passer permis voiture
 - [ ] trouver salle de sport
 - [ ] trouver organisme de formation
