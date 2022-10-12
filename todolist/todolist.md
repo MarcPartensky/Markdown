@@ -7,6 +7,7 @@
 - [ ] appeler caf pour apl
 - [ ] appeler pole emploi pour réclamation are
 - [ ] appeler agence pour les plaques et fuites
+- [ ] finir journal
 - [ ] remboursement navigo voir mona
 - [ ] trouver autoecole appeler pour passer permis voiture
 - [ ] trouver salle de sport
