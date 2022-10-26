@@ -15,7 +15,6 @@
 - [ ] trouver organisme de formation
 - [ ] gnosis
 - [ ] acheter 1 monero
-- [ ] commander rice cooker
 <!-- - [ ] recréer lettre de motivation -->
 
 ## Auto entreprise
