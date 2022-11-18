@@ -38,7 +38,9 @@
 ## vps
 - [ ] duplicati faire fonctionner backups itératifs
 - [ ] sshpiper
+- [ ] ssh good honeypot
 - [ ] sso authentik
+- [ ] keycloak
 - [ ] caddy auth token
 - [ ] waylandvnc
 - [ ] fix arch docker devices
