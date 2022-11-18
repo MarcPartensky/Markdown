@@ -41,7 +41,7 @@
 - [ ] sso authentik
 - [ ] caddy auth token
 - [ ] waylandvnc
-- [ ] fix arch docker tags
+- [ ] fix arch docker devices
 - [ ] docker swarm rootless nestybox
 - [ ] systeme de migration de volumes
 - [ ] serveur mail perso sur tour
