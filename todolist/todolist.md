@@ -45,7 +45,6 @@
 - [ ] docker swarm rootless nestybox
 - [ ] systeme de migration de volumes
 - [ ] serveur mail perso sur tour
-- [ ] github profile readme
 - [ ] déployer [IPsec VPN Server avec Docker](https://github.com/hwdsl2/docker-ipsec-vpn-server)
 - [ ] vpn sur vps, tour
 - [ ] serveurs dns privé (tour, vps) pihole
