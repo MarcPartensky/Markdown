@@ -4,8 +4,8 @@
 # Travail
 
 ## Principal
-- [ ] appeler caf pour apl
-- [ ] appeler pole emploi pour réclamation are
+- [ ] appeler caf val de mane pour apl (nécessite mot de passe)
+- [ ] appeler pole emploi pour réclamation are appeler entre 9h et 13h15
 - [ ] appeler agence pour les plaques et fuites
 - [ ] appeler blabla car ou truc similaire
 - [ ] finir journal
@@ -57,6 +57,7 @@
 - [ ] gitlab ci
 - [ ] jenkins ci/cd (vps + tour)
 - [ ] configurer metamask
+- [ ] screenshot website as a service for github readme
 
 ## site web
 - [ ] dashboard services exposés (20 min)
