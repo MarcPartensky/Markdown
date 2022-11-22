@@ -5,6 +5,8 @@
 
 ## Principal
 - [ ] renouveler passeport pour londre
+- [ ] corriger thai wara anglais
+- [ ] répondre a oxivia
 - [ ] réinscription pole emploi
 - [ ] envoyer contrat d'apprentissage a tutrice pédagogique
 - [ ] appeler pole emploi pour réclamation are appeler entre 9h et 13h15
