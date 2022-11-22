@@ -4,9 +4,11 @@
 # Travail
 
 ## Principal
-- [ ] appeler caf val de mane pour apl (nécessite mot de passe)
-- [ ] appeler pole emploi pour réclamation are appeler entre 9h et 13h15
 - [ ] renouveler passeport pour londre
+- [ ] réinscription pole emploi
+- [ ] envoyer contrat d'apprentissage a tutrice pédagogique
+- [ ] appeler pole emploi pour réclamation are appeler entre 9h et 13h15
+- [ ] appeler caf val de marne pour apl (nécessite mot de passe)
 - [ ] appeler agence pour les plaques et fuites
 - [ ] appeler blabla car ou truc similaire
 - [ ] finir journal
