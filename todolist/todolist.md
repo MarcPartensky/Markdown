@@ -12,7 +12,7 @@
 - [x] envoyer contrat d'apprentissage a tutrice pédagogique
 - [ ] appeler pole emploi pour réclamation are appeler entre 9h et 13h15
 - [ ] appeler caf val de marne pour apl (nécessite mot de passe)
-- [ ] appeler blabla car ou truc similaire
+- [ ] appeler blabla car ou truc similaire mail villegas
 - [ ] finir journal
 - [ ] remboursement navigo voir mona
 - [ ] trouver autoecole appeler pour passer permis voiture
