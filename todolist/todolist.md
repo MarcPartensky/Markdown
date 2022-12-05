@@ -6,11 +6,12 @@
 ## Principal
 - [ ] réserver billet d'avion pour londres + logement
 - [ ] réserver billet d'avion pour riga <- billet commun maxime et valentin
+- [ ] finasteride
 - [x] corriger thai wara anglais
 - [ ] répondre a oxivia
 - [ ] réinscription pole emploi
 - [x] envoyer contrat d'apprentissage a tutrice pédagogique
-- [ ] appeler pole emploi pour réclamation are appeler entre 9h et 13h15
+- [ ] réinscription puis appeler pole emploi pour réclamation are appeler entre 9h et 13h15
 - [ ] appeler caf val de marne pour apl (nécessite mot de passe)
 - [ ] appeler blabla car ou truc similaire mail villegas
 - [ ] finir journal
