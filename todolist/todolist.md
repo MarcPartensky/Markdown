@@ -6,10 +6,10 @@
 ## Principal
 - [ ] réserver billet d'avion pour londres + logement
 - [ ] réserver billet d'avion pour riga <- billet commun maxime et valentin
-- [ ] corriger thai wara anglais
+- [x] corriger thai wara anglais
 - [ ] répondre a oxivia
 - [ ] réinscription pole emploi
-- [ ] envoyer contrat d'apprentissage a tutrice pédagogique
+- [x] envoyer contrat d'apprentissage a tutrice pédagogique
 - [ ] appeler pole emploi pour réclamation are appeler entre 9h et 13h15
 - [ ] appeler caf val de marne pour apl (nécessite mot de passe)
 - [ ] appeler blabla car ou truc similaire
