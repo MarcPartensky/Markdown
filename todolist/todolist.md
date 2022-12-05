@@ -36,13 +36,13 @@
 
 ## ordi
 - [ ] tester stylet tablette
-- [ ] configurer neovim 0.7 lua
 - [ ] configurer awesomewm bspwm
 - [ ] tester xmonad, hypr, sway
 - [ ] eww : https://github.com/elkowar/eww https://github.com/adi1090x/widgets
 - [ ] self made distro
 
 ## vps
+- [ ] changer ventilo tour
 - [ ] duplicati faire fonctionner backups itératifs
 - [ ] sshpiper
 - [ ] ssh good honeypot
