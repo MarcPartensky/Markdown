@@ -16,10 +16,11 @@
 - [ ] finir journal
 - [ ] remboursement navigo voir mona
 - [ ] trouver autoecole appeler pour passer permis voiture
-- [ ] trouver salle de sport
+- [ ] trouver salle de sport retour lettonie
 - [ ] trouver organisme de formation
 - [ ] gnosis
 - [ ] acheter 1 monero
+- [ ] numeris staging
 <!-- - [ ] recréer lettre de motivation -->
 
 ## Auto entreprise
