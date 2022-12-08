@@ -34,7 +34,6 @@
 # Bonus
 
 ## ordi
-- [ ] tester stylet tablette
 - [ ] configurer awesomewm bspwm
 - [ ] tester xmonad, hypr, sway
 - [ ] eww : https://github.com/elkowar/eww https://github.com/adi1090x/widgets
