@@ -40,6 +40,7 @@
 ## vps
 - [ ] changer ventilo tour
 - [ ] duplicati faire fonctionner backups itératifs
+- [ ] authelia
 - [ ] sshpiper
 - [ ] ssh good honeypot
 - [ ] sso authentik
