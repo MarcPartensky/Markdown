@@ -18,7 +18,6 @@
 - [ ] trouver organisme de formation
 - [ ] gnosis
 - [ ] acheter 1 monero
-- [ ] numeris staging
 - [ ] projet ml isep
 <!-- - [ ] recréer lettre de motivation -->
 
