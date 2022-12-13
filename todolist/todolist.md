@@ -38,6 +38,7 @@
 - [ ] self made distro
 
 ## vps
+- [ ] cli deploy docker avec dossier env
 - [ ] changer ventilo tour
 - [ ] duplicati faire fonctionner backups itératifs
 - [ ] authelia
