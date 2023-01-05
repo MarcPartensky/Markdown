@@ -49,7 +49,7 @@
 - [ ] systeme de migration de volumes
 - [ ] serveur mail perso sur tour
 - [ ] déployer [IPsec VPN Server avec Docker](https://github.com/hwdsl2/docker-ipsec-vpn-server)
-- [ ] vpn sur vps, tour
+- [ ] vpn sur tour
 - [ ] serveurs dns privé vps pihole, bind9 ou adguard
 - [ ] tri des conteneurs à migrer du vps sur la tour
 - [ ] connexion sécurisé (vpn + tor + vps)
