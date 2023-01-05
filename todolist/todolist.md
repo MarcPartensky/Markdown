@@ -4,15 +4,13 @@
 # Travail
 
 ## Principal
-- [ ] réserver billet d'avion pour londres + logement
-- [ ] réserver billet d'avion pour riga <- billet commun maxime et valentin
+- [ ] réserver billet d'avion pour riga
 - [ ] répondre a oxivia
 - [ ] réinscription pole emploi
 - [ ] réinscription puis appeler pole emploi pour réclamation are appeler entre 9h et 13h15
 - [ ] appeler caf val de marne pour apl (nécessite mot de passe)
 - [ ] appeler blabla car ou truc similaire mail villegas
 - [ ] finir journal
-- [ ] remboursement navigo voir mona
 - [ ] trouver autoecole appeler pour passer permis voiture
 - [ ] trouver salle de sport retour lettonie
 - [ ] trouver organisme de formation
