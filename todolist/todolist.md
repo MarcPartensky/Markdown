@@ -8,7 +8,6 @@
 - [ ] répondre a oxivia
 - [ ] réinscription pole emploi
 - [ ] réinscription puis appeler pole emploi pour réclamation are appeler entre 9h et 13h15
-- [ ] appeler caf val de marne pour apl (nécessite mot de passe)
 - [ ] appeler blabla car ou truc similaire mail villegas
 - [ ] finir journal
 - [ ] trouver autoecole appeler pour passer permis voiture
