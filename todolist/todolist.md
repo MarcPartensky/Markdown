@@ -36,13 +36,12 @@
 
 ## vps
 - [ ] cli deploy docker avec dossier env
-- [ ] changer ventilo tour
 - [ ] duplicati faire fonctionner backups itératifs
 - [ ] authelia
 - [ ] sshpiper
 - [ ] ssh good honeypot
 - [ ] sso authentik
-- [ ] keycloak
+- [ ] sso keycloak
 - [ ] caddy auth token
 - [ ] waylandvnc
 - [ ] fix arch docker devices
