@@ -4,18 +4,16 @@
 # Travail
 
 ## Principal
-- [ ] réserver billet d'avion pour riga
 - [ ] répondre a oxivia
 - [ ] réinscription pole emploi
 - [ ] réinscription puis appeler pole emploi pour réclamation are appeler entre 9h et 13h15
-- [ ] appeler blabla car ou truc similaire mail villegas
+- [ ] appeler en voiture simone ou ornikar ou truc similaire mail villegas
 - [ ] finir journal
 - [ ] trouver autoecole appeler pour passer permis voiture
 - [ ] trouver salle de sport retour lettonie
 - [ ] trouver organisme de formation
 - [ ] gnosis
 - [ ] acheter 1 monero
-- [ ] projet ml isep
 <!-- - [ ] recréer lettre de motivation -->
 
 ## Auto entreprise
@@ -35,6 +33,7 @@
 - [ ] self made distro
 
 ## vps
+- [ ] dns tunneling tour
 - [ ] cli deploy docker avec dossier env
 - [ ] duplicati faire fonctionner backups itératifs
 - [ ] authelia
@@ -174,7 +173,6 @@
 - [ ] lire pocket
 
 ## Potentiellement hors ligne
-- [ ] Netflix & Prime vidéo
 - [ ] xmonad
 - [ ] gentoo
 
