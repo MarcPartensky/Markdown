@@ -4,11 +4,9 @@
 # Travail
 
 ## Principal
-- [ ] répondre a oxivia
 - [ ] réinscription pole emploi
 - [ ] réinscription puis appeler pole emploi pour réclamation are appeler entre 9h et 13h15
 - [ ] appeler en voiture simone ou ornikar ou truc similaire mail villegas
-- [ ] finir journal
 - [ ] trouver autoecole appeler pour passer permis voiture
 - [ ] trouver salle de sport retour lettonie
 - [ ] trouver organisme de formation
