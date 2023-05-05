@@ -31,6 +31,7 @@
 - [ ] self made distro
 
 ## vps
+- [ ] corriger focalboard
 - [ ] dns tunneling tour
 - [ ] cli deploy docker avec dossier env
 - [ ] duplicati faire fonctionner backups itératifs
