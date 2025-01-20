@@ -7,7 +7,7 @@ numéro candidat: 25000123
 vérifier hélice avant location
 
 ## Administratif
-Venir avec carte d'identité, photo d'identité
+Venir avec carte d'identité, photo d'identité, maillot car entrainement homme à la mer
 on reçoit un livret du candidat
 1 pratique pour cotier et fluvial mais il faut faire les 2 examens de cotier fluvial au préalable
 
