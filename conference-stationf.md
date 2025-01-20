@@ -1,0 +1,2 @@
+
+benchmark loki quickwit
